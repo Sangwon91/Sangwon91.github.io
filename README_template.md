@@ -37,37 +37,16 @@ B.S. in Chemical Engineering	(Feb. 2014)
 ## Publications
 
 ### First & co-first author
-| Title                                                                                                                                                                                                    | Citations | Year |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|
-| (*Contributed Equally) Inverse design of porous materials using artificial neural networks, Science advances 6 (1), eaax9324, 2020                                                                       | 211       | 2020 |
-| *User-friendly graphical user interface software for ideal adsorbed solution theory calculations, Korean Journal of Chemical Engineering 35, 214-221, 2018                                               | 78        | 2018 |
-| *Computational screening of trillions of metal–organic frameworks for high-performance methane storage, ACS Applied Materials & Interfaces 13 (20), 23647-23654, 2021                                    | 65        | 2021 |
-| *Predicting performance limits of methane gas storage in zeolites with an artificial neural network, Journal of Materials Chemistry A 7 (6), 2709-2716, 2019                                             | 39        | 2019 |
-| (*Contributed Equally) Computational Analysis of Linker Defective Metal–Organic Frameworks for Membrane Separation Applications, Langmuir 35 (11), 3917-3924, 2019                                       | 9         | 2019 |
-| (*Contributed Equally) Performance Evaluation of Deep Learning Architectures for Load and Temperature Forecasting under Dataset Size Constraints and Seasonality, Energy and Buildings, 113027, 2023     | 1         | 2023 |
-| *Chemical potential and solid-solid equilibrium of near-spherical Lennard-Jones dumbbell crystal, Korean Journal of Chemical Engineering 33, 1047-1058, 2016                                             | 1         | 2016 |
-| (*Contributed Equally) Interpretable deep learning model for load and temperature forecasting: Depending on encoding length, models may be cheating on wrong answers, Energy and Buildings, 113410, 2023 | 0         | 2023 |
+{{ table1 }}
 
 ### Others
-| Title                                                                                                                                                                   | Citations | Year |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|
-| Applications of machine learning in metal-organic frameworks, Coordination Chemistry Reviews 423, 213487, 2020                                                          | 97        | 2020 |
-| Finding hidden signals in chemical sensors using deep learning, Analytical chemistry 92 (9), 6529-6537, 2020                                                            | 35        | 2020 |
-| Size-Matching Ligand Insertion in MOF-74 for Enhanced CO2 Capture under Humid Conditions, The Journal of Physical Chemistry C 121 (44), 24444-24451, 2017               | 32        | 2017 |
-| Finely tuned inverse design of metal–organic frameworks with user-desired Xe/Kr selectivity, Journal of Materials Chemistry A 9 (37), 21175-21183, 2021                 | 17        | 2021 |
-| New model for S-shaped isotherm data and its application to process modeling using IAST, Chemical Engineering Journal 420, 127580, 2021                                 | 10        | 2021 |
-| Isotherm parameter library and evaluation software for CO2 capture adsorbents, Computers & Chemical Engineering 143, 107105, 2020                                       | 10        | 2020 |
-| Computational design of metal–organic frameworks with unprecedented high hydrogen working capacity and high synthesizability, Chemistry of Materials 35 (1), 9-16, 2022 | 9         | 2022 |
-| Machine learning-based discovery of molecules, crystals, and composites: A perspective review, Korean Journal of Chemical Engineering, 1-12, 2021                       | 5         | 2021 |
-| Deep learning-based initial guess for minimum energy path calculations, Korean Journal of Chemical Engineering 38, 406-410, 2021                                        | 1         | 2021 |
-| Real-time probabilistic backfill thermal property estimation method enabling estimation convergence judgment, Case Studies in Thermal Engineering 48, 103108, 2023      | 0         | 2023 |
-| Automatic Object Extraction from Electronic Documents Using Deep Neural Network, KIPS Transactions on Software and Data Engineering 7 (11), 411-418, 2018               | 0         | 2018 |
+{{ table2 }}
 
 ## Projects
 
 ### LG Chem
 
-#### Oxidation coordination XANES
+#### Prediction of oxidation states and coordination number from XANES using deep learning
 
 * Patent application submitted
 * Technologies used:
@@ -92,8 +71,8 @@ B.S. in Chemical Engineering	(Feb. 2014)
 #### EBSD orientation analysis for lithium ion path in cathode
 * Technologies used:
 
-#### Determination of separator diffusion coefficient
-* Technologies used:
+#### Determination of diffusion coefficient of lithum in separator
+* Function: theory development
 
 #### Orientation analysis of glass fibers in the engineering plastic
 * Technologies used:
