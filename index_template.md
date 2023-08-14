@@ -1,5 +1,5 @@
 # Sangwon Lee
-Last updated: Aug 12, 2023
+Last updated: {{ today }}
 
 Professional, DataAnalysis PJT. Analytical Sciences Center, LG Chem
 
@@ -172,7 +172,7 @@ Architecture for the prediction of oxidation states and coodination numbers from
 * PyTorch [ooo]
 * Tensorflow [ooo]
 * PyTorch Lightning [ooo]
-* PyTorch Geometric [oo]
+* PyTorch Geometric [o]
 * Detectron2 [oo]
 * MMDetection [oo]
 * scikit-learn [oo]
@@ -231,7 +231,7 @@ Architecture for the prediction of oxidation states and coodination numbers from
 * Docker [oo]
 * Docker compose [oo]
 
-### Backand & ML serving
+### Backend & ML serving
 * FastAPI [oo]
 * MLflow models [oo]
 
