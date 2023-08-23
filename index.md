@@ -1,5 +1,6 @@
-# Sangwon Lee
-Last updated: Aug 14, 2023
+# This document is currently being written.
+
+Last updated: Aug 23, 2023
 
 Professional, DataAnalysis PJT. Analytical Sciences Center, LG Chem
 
@@ -39,9 +40,9 @@ B.S. in Chemical Engineering	(Feb. 2014)
 ### First & co-first author
 | Title                                                                                                                                                                                                    | Citations | Year |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|
-| (*Contributed Equally) Inverse design of porous materials using artificial neural networks, Science advances 6 (1), eaax9324, 2020                                                                       | 211       | 2020 |
-| *User-friendly graphical user interface software for ideal adsorbed solution theory calculations, Korean Journal of Chemical Engineering 35, 214-221, 2018                                               | 78        | 2018 |
-| *Computational screening of trillions of metal–organic frameworks for high-performance methane storage, ACS Applied Materials & Interfaces 13 (20), 23647-23654, 2021                                    | 65        | 2021 |
+| (*Contributed Equally) Inverse design of porous materials using artificial neural networks, Science advances 6 (1), eaax9324, 2020                                                                       | 214       | 2020 |
+| *User-friendly graphical user interface software for ideal adsorbed solution theory calculations, Korean Journal of Chemical Engineering 35, 214-221, 2018                                               | 79        | 2018 |
+| *Computational screening of trillions of metal–organic frameworks for high-performance methane storage, ACS Applied Materials & Interfaces 13 (20), 23647-23654, 2021                                    | 67        | 2021 |
 | *Predicting performance limits of methane gas storage in zeolites with an artificial neural network, Journal of Materials Chemistry A 7 (6), 2709-2716, 2019                                             | 39        | 2019 |
 | (*Contributed Equally) Computational Analysis of Linker Defective Metal–Organic Frameworks for Membrane Separation Applications, Langmuir 35 (11), 3917-3924, 2019                                       | 9         | 2019 |
 | (*Contributed Equally) Machine learning-based discovery of molecules, crystals, and composites: A perspective review, Korean Journal of Chemical Engineering, 1-12, 2021                                 | 5         | 2021 |
@@ -52,13 +53,13 @@ B.S. in Chemical Engineering	(Feb. 2014)
 ### Others
 | Title                                                                                                                                                                   | Citations | Year |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|
-| Applications of machine learning in metal-organic frameworks, Coordination Chemistry Reviews 423, 213487, 2020                                                          | 97        | 2020 |
+| Applications of machine learning in metal-organic frameworks, Coordination Chemistry Reviews 423, 213487, 2020                                                          | 98        | 2020 |
 | Finding hidden signals in chemical sensors using deep learning, Analytical chemistry 92 (9), 6529-6537, 2020                                                            | 35        | 2020 |
 | Size-Matching Ligand Insertion in MOF-74 for Enhanced CO2 Capture under Humid Conditions, The Journal of Physical Chemistry C 121 (44), 24444-24451, 2017               | 32        | 2017 |
 | Finely tuned inverse design of metal–organic frameworks with user-desired Xe/Kr selectivity, Journal of Materials Chemistry A 9 (37), 21175-21183, 2021                 | 17        | 2021 |
+| Computational design of metal–organic frameworks with unprecedented high hydrogen working capacity and high synthesizability, Chemistry of Materials 35 (1), 9-16, 2022 | 10        | 2022 |
 | New model for S-shaped isotherm data and its application to process modeling using IAST, Chemical Engineering Journal 420, 127580, 2021                                 | 10        | 2021 |
 | Isotherm parameter library and evaluation software for CO2 capture adsorbents, Computers & Chemical Engineering 143, 107105, 2020                                       | 10        | 2020 |
-| Computational design of metal–organic frameworks with unprecedented high hydrogen working capacity and high synthesizability, Chemistry of Materials 35 (1), 9-16, 2022 | 9         | 2022 |
 | Deep learning-based initial guess for minimum energy path calculations, Korean Journal of Chemical Engineering 38, 406-410, 2021                                        | 1         | 2021 |
 | Real-time probabilistic backfill thermal property estimation method enabling estimation convergence judgment, Case Studies in Thermal Engineering 48, 103108, 2023      | 0         | 2023 |
 | Automatic Object Extraction from Electronic Documents Using Deep Neural Network, KIPS Transactions on Software and Data Engineering 7 (11), 411-418, 2018               | 0         | 2018 |

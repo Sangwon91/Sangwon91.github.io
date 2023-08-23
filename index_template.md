@@ -1,4 +1,5 @@
-# Sangwon Lee
+# This document is currently being written
+
 Last updated: {{ today }}
 
 Professional, DataAnalysis PJT. Analytical Sciences Center, LG Chem
