@@ -74,8 +74,8 @@ B.S. in Chemical Engineering	(Feb. 2014)
 #### Tortousity estimation of bettery separators using Monte Carlo simaultions (2022)
 * Contributions: developed a tortuosity calculation algorithm, created a 3D visualization tool
 
-#### Predicting biodegradation of polymers using kinetics and Bayesian inference (2022-2023)
-* Contributions: developed a kinetics model for polymer biodegradation, designed a Bayesian inference model, contributed to back-end development
+#### Predicting biodegradation of polymers using reaction kinetics and Bayesian inference (2022-2023)
+* Contributions: developed a reaction kinetics model for polymer biodegradation, designed a Bayesian inference model, contributed to back-end development
 
 #### EBSD orientation analysis for lithium-ion path in cathodes (2022)
 * Contributions: developed the theory, contributed to back-end development
