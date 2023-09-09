@@ -1,10 +1,8 @@
-# This document is currently being written
-
 Last updated: {{ today }}
 
-Professional, DataAnalysis PJT. Analytical Sciences Center, LG Chem
+Professional, Data Analysis PJT, Analytical Sciences Center, LG Chem
 
-E6, LG Science Park, Seoul, Republic of Korea
+LG Science Park, Seoul, Republic of Korea
 
 lsw91.main@gmail.com
 | (+82) 10-2291-6467
@@ -13,16 +11,20 @@ lsw91.main@gmail.com
 
 
 ## Education
-### Korea Advanced Institute of Science and Technology (KAIST)  (Daejeon, Korea)
+### Korea Advanced Institute of Science and Technology  (Daejeon, Korea)
 
 Postdoctoral Researcher in Applied Science Research Institute (Apr. 2021)
 
-Ph.D. in Chemical and Biomolecular Engineering
+Ph.D. in Chemical and Biomolecular Engineering (Feb. 2020)
 
-Dissertation: Nanoporous Materials Discovery for Energy and Environmental Applications using Machine Learning (Advisor: Jihan Kim) (Feb. 2020)
+<span style="font-size: 90%; color: gray">Dissertation: Nanoporous Materials Discovery for Energy and Environmental Applications using Machine Learning (Advisor: Jihan Kim)</span>
 
-### University of Seoul   (Seoul, Korea)
-M.S. in Chemical Engineering (Molecular Thermodynamics, Advisor: Jaeeon Chang)	(Feb. 2016)
+
+### University of Seoul (Seoul, Korea)
+M.S. in Chemical Engineering 	(Feb. 2016)
+
+<span style="font-size: 90%; color: gray">Thesis: Prediction of chemical potential and phase transition
+of molecular crystals using Monte Carlo simulations (Advisor: Jaeeon Chang)</span>
 
 B.S. in Chemical Engineering	(Feb. 2014)
 
@@ -37,46 +39,52 @@ B.S. in Chemical Engineering	(Feb. 2014)
 
 ## Publications
 
-### First & co-first author
+### First and co-first author papers
 {{ table1 }}
 
-### Others
+### Other papers
 {{ table2 }}
 
 ## Projects
 
 ### LG Chem
 
-#### Prediction of oxidation states and coordination number from XANES using deep learning
+#### Predicting oxidation states and coordination numbers from XANES using deep learning (2021, with LG AI Research)
 
-* Patent application submitted
-* Technologies used:
+* Contributions: designed deep learning architecture, developed  knowledge transfer method
+* *Patent application submitted*
 
-#### Segmentation tools with SAM
-* Technologies used:
+#### Building MLOps infrastructure for instance sementation models (2021-2022)
+* Contributions: designed infrastructure architecture, established the infrastructure
 
-#### CNT length analysis for SEM images
-* Technologies used:
-* Function:
+#### Developmenet of a segmentation tool using segment anything model (2023)
+* Contributions: worked on backend development
 
-#### Homocrystalinity analysis of cathode using machine learning
-* Patent application submitted
-* Technologies used:
+#### Analysis length dimension of carbon nanotubes on SEM images (2023)
+* Contributions: developed a length estimation algorithm, worked on backend development
 
-#### Tortousity estimation of bettery separator using Monte Carlo simaultions
-* Technologies used:
+#### Momocrystalinity analysis of cathodes from EBSD using machine learning (2022-2023)
 
-#### Biodegradation of polymers using kinetics and Bayesian inference
-* Technologies used:
+* Contributions: developed the theory of monocrystallinity, designed deep learning models, worked on backend development
+* *Patent application submitted*
 
-#### EBSD orientation analysis for lithium ion path in cathode
-* Technologies used:
+#### Tortousity estimation of bettery separators using Monte Carlo simaultions (2022)
+* Contributions: developed a tortuosity calculation algorithm, created a 3D visualization tool.
 
-#### Determination of diffusion coefficient of lithum in separator
-* Function: theory development
+#### Predicting biodegradation of polymers using kinetics and Bayesian inference (2022-2023)
+* Contributions: developed a kinetics model for polymer biodegradation, designed a Bayesian inference model, contributed to backend development
 
-#### Orientation analysis of glass fibers in the engineering plastic
-* Technologies used:
+#### EBSD orientation analysis for lithium-ion path in cathodes (2022)
+* Contributions: Developed the theory, contributed to backend development
+
+#### Determination of the diffusion coefficient of lithum in separators (2023)
+* Contributions: developed the theory for the diffusion model
+
+#### Orientation analysis of glass fibers in the engineering plastics (2021)
+* Contributions: developed deep learning model
+
+#### Classification of crystal phases in cathodes from 4D-STEM data (2023)
+* Contributions: developed a diffraction pattern classification algorithm
 
 ## Softwares & Libraries
 
@@ -84,13 +92,13 @@ B.S. in Chemical Engineering	(Feb. 2014)
 
 [GitHub Repository](https://github.com/BET-lab/DeepTimeSeries)
 
-Deep learning library for time series forecasting based on PyTorch
+A deep learning library designed for time series forecasting, built on the PyTorch framework
 
-### Pormake (Python)
+### PORMAKE (Python)
 
 [GitHub Repository](https://github.com/Sangwon91/PORMAKE)
 
-Python library for the construction of porous materials using topology and building blocks
+A Python library for the construction of porous materials using topology and building blocks
 
 ### IAST++ (C++)
 
@@ -102,31 +110,31 @@ User-friendly software for ideal adsorbed solution theory calculations
 
 [GitHub Repository](https://github.com/Sangwon91/GRIDAY)
 
-Energy shape calculator for the porous materials
+An energy shape calculator for the porous materials
 
 ### PC-SAFT (Fortran)
 
 [GitHub Repository](https://github.com/Sangwon91/PC-SAFT)
 
-Software for calculation of chemical equalibrium using perturbed chain statistical associating fluid theory
+A software tool that facilitates the calculation of chemical equilibrium using perturbed chain statistical associating fluid theory
 
 ### MonteCarloSimulator (Fortran)
 
 [GitHub Repository](https://github.com/Sangwon91/MonteCarloSimulator)
 
-Molecular Monte Carlo simulator for the free energy calculations of molecules in fluid and solid states
+A molecular Monte Carlo simulator employed for free energy calculations of molecules in both fluid and solid states
 
 ### dartwork-mpl (Python, Matplotlib)
 
 [GitHub Repository](https://github.com/BET-lab/dartwork-mpl)
 
-Matplotlib styling and utility package for the creation of publication-ready figures
+A Matplotlib styling and utility package crafted for the creation of publication-ready figures
 
 ### LabeledImage (Python)
 
 (private, LG Chem)
 
-Library for the management of labeled images for instance segmentations. This library includes format conversion, patch detection aggregation and image augmentation tools
+A library designed for managing labeled images, specifically tailored for instance segmentations. This library includes tools for format conversion, patch detection aggregation, and image augmentation.
 
 ### Deep learning architectures
 
@@ -137,129 +145,135 @@ Library for the management of labeled images for instance segmentations. This li
 [GitHub Repository](https://github.com/Sangwon91/MOF-NET-GRAPH)
 (Graph-network version)
 
-Deep neural network for the prediction of MOF properties from topology and building blocks.
+A deep neural network engineered for predicting MOF (Metal-Organic Framework) properties based on topology and building blocks
 
 #### ZeoGAN (Tensorflow)
 
 [GitHub Repository](https://github.com/Sangwon91/ZeoGAN)
 
-GAN for inverse design of zeolites
+A generative adversarial network (GAN) designed for the inverse design of zeolites
 
 #### ESGAN (Tensorflow)
 
 [GitHub Repository](https://github.com/Sangwon91/ESGAN)
 
-GAN for generation of energy shape of porous materials
+A generative adversarial network (GAN) created for generating energy shapes of porous materials
 
 #### XANES-Net (PyTorch)
 
-(private, LG Chem)
+(private, LG Chem, with LG AI Research)
 
-Architecture for the prediction of oxidation states and coodination numbers from XANES using knowledge transfer from crystal structures
+An architecture developed for predicting oxidation states and coordination numbers from XANES data, leveraging knowledge transfer from crystal structures
 
 ## Skills
 
-*ooo: advanced, oo: intermediate, o: basic*
+{{ L1 }}: Usable with some time investment
+
+{{ L2 }}: Proficiently usable
+
+{{ L3 }}: Usable at an expert level
 
 ### Programming languages
-* C/C++ [ooo]
-* Python [ooo]
-* Fortran [ooo]
-* Mathematica [ooo]
-* Javascript [o]
-* Rust [o]
+* C/C++ {{ L3 }}
+* Python {{ L3 }}
+* Fortran {{ L3 }}
+* Mathematica {{ L3 }}
+* Javascript {{ L1 }}
+* Rust {{ L1 }}
 
 ### Machine learning
-* PyTorch [ooo]
-* Tensorflow [ooo]
-* PyTorch Lightning [ooo]
-* PyTorch Geometric [o]
-* Detectron2 [oo]
-* MMDetection [oo]
-* scikit-learn [oo]
-* XGBoost [o]
-* JAX [o]
-* Darts [oo]
+* PyTorch {{ L3 }}
+* Tensorflow {{ L3 }}
+* PyTorch Lightning {{ L3 }}
+* PyTorch Geometric {{ L1 }}
+* Detectron2 {{ L2 }}
+* MMDetection {{ L2 }}
+* scikit-learn {{ L2 }}
+* XGBoost {{ L1 }}
+* JAX {{ L2 }}
+* Darts {{ L2 }}
 
 ### Bayesian inference
-* PyMC [ooo]
-* Pyro [o]
+* PyMC {{ L3 }}
+* Pyro {{ L1 }}
 
 ### Data visualization
-* Matplotlib [ooo]
-* Seaborn [oo]
-* Plotly [oo]
-* Bokeh [o]
-* d3.js [oo]
+* Matplotlib {{ L3 }}
+* Seaborn {{ L2 }}
+* Plotly {{ L2 }}
+* Bokeh {{ L1 }}
+* d3.js {{ L1 }}
 
 ### Version control
-* Git [oo]
-* GitHub [oo]
+* Git {{ L2 }}
+* GitHub {{ L2 }}
 
 ### CI/CD
-* Github Actions [o]
+* Github Actions {{ L2 }}
 
 ### Package and project management
-* Poetry & Pyenv [ooo]
-* Conda [o]
+* Poetry & Pyenv {{ L3 }}
+* Conda {{ L2 }}
 
 ### Unit test
-* pytest [o]
+* pytest {{ L2 }}
 
 ### Data structure & numerical analysis
-* Pandas [ooo]
-* Xarray [oo]
-* NumPy [ooo]
-* SciPy [ooo]
+* Pandas {{ L3 }}
+* Xarray {{ L2 }}
+* NumPy {{ L3 }}
+* SciPy {{ L3 }}
 
 ### GUI programming
-* Qt, PySide6 [ooo]
+* Qt, PySide6 {{ L3 }}
 
 ### Symbolic computation
-* Mathematica [ooo]
-* SymPy [oo]
+* Mathematica {{ L3 }}
+* SymPy {{ L2 }}
 
 ### Computer vision
-* OpenCV [ooo]
-* scikit-image [ooo]
+* OpenCV {{ L3 }}
+* scikit-image {{ L3 }}
 
 ### 3D visualization
-* PyVista [ooo]
-* OpenGL (GLSL) [o]
-* Panda3D [oo]
+* PyVista {{ L3 }}
+* OpenGL (GLSL) {{ L1 }}
+* Panda3D {{ L2 }}
 
 ### Containerization
-* Docker [oo]
-* Docker compose [oo]
+* Docker {{ L2 }}
+* Docker compose {{ L2 }}
 
-### Backend & ML serving
-* FastAPI [oo]
-* MLflow models [oo]
-
+### Back-end & ML serving
+* FastAPI {{ L2 }}
+* MLflow models {{ L2 }}
 
 ### Documentation
-* Sphinx [ooo]
-* LaTeX [oo]
+* Sphinx {{ L2 }}
+* LaTeX {{ L2 }}
 
 ### MLOps
-* MLflow [ooo]
-* Tensorboard [o]
+* MLflow {{ L3 }}
+* Tensorboard {{ L1 }}
 
 ### Reverse proxy
-* Traefik [oo]
+* Traefik {{ L2 }}
 
-### Configuration
-* Hydra [oo]
+### Configuration management
+* Hydra {{ L2 }}
 
 ### Operating system
-* Linux (Ubuntu, CentOS) [oo]
+* Linux (Ubuntu, CentOS) {{ L2 }}
 
 ### Molecular simulations
-* PyMatGen [ooo]
-* ASE [ooo]
-* LAMMPS [ooo]
-* VASP [o]
-* PySCF [o]
+* PyMatGen {{ L3 }}
+* ASE {{ L3 }}
+* LAMMPS {{ L3 }}
+* VASP {{ L1 }}
+* PySCF {{ L1 }}
+
+### Database
+* SQLite {{ L1 }}
 
 ## Presentations
 

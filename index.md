@@ -1,10 +1,8 @@
-# This document is currently being written.
+Last updated: Sep 09, 2023
 
-Last updated: Aug 23, 2023
+Professional, Data Analysis PJT, Analytical Sciences Center, LG Chem
 
-Professional, DataAnalysis PJT. Analytical Sciences Center, LG Chem
-
-E6, LG Science Park, Seoul, Republic of Korea
+LG Science Park, Seoul, Republic of Korea
 
 lsw91.main@gmail.com
 | (+82) 10-2291-6467
@@ -13,16 +11,20 @@ lsw91.main@gmail.com
 
 
 ## Education
-### Korea Advanced Institute of Science and Technology (KAIST)  (Daejeon, Korea)
+### Korea Advanced Institute of Science and Technology  (Daejeon, Korea)
 
 Postdoctoral Researcher in Applied Science Research Institute (Apr. 2021)
 
-Ph.D. in Chemical and Biomolecular Engineering
+Ph.D. in Chemical and Biomolecular Engineering (Feb. 2020)
 
-Dissertation: Nanoporous Materials Discovery for Energy and Environmental Applications using Machine Learning (Advisor: Jihan Kim) (Feb. 2020)
+<span style="font-size: 90%; color: gray">Dissertation: Nanoporous Materials Discovery for Energy and Environmental Applications using Machine Learning (Advisor: Jihan Kim)</span>
 
-### University of Seoul   (Seoul, Korea)
-M.S. in Chemical Engineering (Molecular Thermodynamics, Advisor: Jaeeon Chang)	(Feb. 2016)
+
+### University of Seoul (Seoul, Korea)
+M.S. in Chemical Engineering 	(Feb. 2016)
+
+<span style="font-size: 90%; color: gray">Thesis: Prediction of chemical potential and phase transition
+of molecular crystals using Monte Carlo simulations (Advisor: Jaeeon Chang)</span>
 
 B.S. in Chemical Engineering	(Feb. 2014)
 
@@ -37,67 +39,73 @@ B.S. in Chemical Engineering	(Feb. 2014)
 
 ## Publications
 
-### First & co-first author
-| Title                                                                                                                                                                                                    | Citations | Year |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|
-| (*Contributed Equally) Inverse design of porous materials using artificial neural networks, Science advances 6 (1), eaax9324, 2020                                                                       | 214       | 2020 |
-| *User-friendly graphical user interface software for ideal adsorbed solution theory calculations, Korean Journal of Chemical Engineering 35, 214-221, 2018                                               | 79        | 2018 |
-| *Computational screening of trillions of metal–organic frameworks for high-performance methane storage, ACS Applied Materials & Interfaces 13 (20), 23647-23654, 2021                                    | 67        | 2021 |
-| *Predicting performance limits of methane gas storage in zeolites with an artificial neural network, Journal of Materials Chemistry A 7 (6), 2709-2716, 2019                                             | 39        | 2019 |
-| (*Contributed Equally) Computational Analysis of Linker Defective Metal–Organic Frameworks for Membrane Separation Applications, Langmuir 35 (11), 3917-3924, 2019                                       | 9         | 2019 |
-| (*Contributed Equally) Machine learning-based discovery of molecules, crystals, and composites: A perspective review, Korean Journal of Chemical Engineering, 1-12, 2021                                 | 5         | 2021 |
-| (*Contributed Equally) Performance Evaluation of Deep Learning Architectures for Load and Temperature Forecasting under Dataset Size Constraints and Seasonality, Energy and Buildings, 113027, 2023     | 1         | 2023 |
-| *Chemical potential and solid-solid equilibrium of near-spherical Lennard-Jones dumbbell crystal, Korean Journal of Chemical Engineering 33, 1047-1058, 2016                                             | 1         | 2016 |
-| (*Contributed Equally) Interpretable deep learning model for load and temperature forecasting: Depending on encoding length, models may be cheating on wrong answers, Energy and Buildings, 113410, 2023 | 0         | 2023 |
+### First and co-first author papers
+| Title                                                                                                                                                                                                                    | Citations | Year |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|
+| (Contributed Equally) Inverse design of porous materials using artificial neural networks, B Kim, S Lee, J Kim, *Science advances 6 (1), eaax9324, 2020*                                                                 | 219       | 2020 |
+| User-friendly graphical user interface software for ideal adsorbed solution theory calculations, S Lee, JH Lee, J Kim, *Korean Journal of Chemical Engineering 35, 214-221, 2018*                                        | 81        | 2018 |
+| Computational screening of trillions of metal–organic frameworks for high-performance methane storage, S Lee,  B Kim,  H Cho et al., *ACS Applied Materials & Interfaces 13 (20), 23647-23654, 2021*                     | 67        | 2021 |
+| Predicting performance limits of methane gas storage in zeolites with an artificial neural network, S Lee, B Kim, J Kim, *Journal of Materials Chemistry A 7 (6), 2709-2716, 2019*                                       | 40        | 2019 |
+| (Contributed Equally) Computational Analysis of Linker Defective Metal–Organic Frameworks for Membrane Separation Applications, H Kim, S Lee, J Kim, *Langmuir 35 (11), 3917-3924, 2019*                                 | 9         | 2019 |
+| (Contributed Equally) Machine learning-based discovery of molecules, crystals, and composites: A perspective review, S Lee, H Byun, M Cheon, J Kim, JH Lee, *Korean Journal of Chemical Engineering, 1-12, 2021*         | 5         | 2021 |
+| (Contributed Equally) Performance Evaluation of Deep Learning Architectures for Load and Temperature Forecasting under Dataset Size Constraints and Seasonality, W Choi, S Lee, *Energy and Buildings, 113027, 2023*     | 2         | 2023 |
+| Chemical potential and solid-solid equilibrium of near-spherical Lennard-Jones dumbbell crystal, S Lee, M Kim, J Chang, *Korean Journal of Chemical Engineering 33, 1047-1058, 2016*                                     | 1         | 2016 |
+| (Contributed Equally) Interpretable deep learning model for load and temperature forecasting: Depending on encoding length, models may be cheating on wrong answers, W Choi, S Lee, *Energy and Buildings, 113410, 2023* |           | 2023 |
 
-### Others
-| Title                                                                                                                                                                   | Citations | Year |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|
-| Applications of machine learning in metal-organic frameworks, Coordination Chemistry Reviews 423, 213487, 2020                                                          | 98        | 2020 |
-| Finding hidden signals in chemical sensors using deep learning, Analytical chemistry 92 (9), 6529-6537, 2020                                                            | 35        | 2020 |
-| Size-Matching Ligand Insertion in MOF-74 for Enhanced CO2 Capture under Humid Conditions, The Journal of Physical Chemistry C 121 (44), 24444-24451, 2017               | 32        | 2017 |
-| Finely tuned inverse design of metal–organic frameworks with user-desired Xe/Kr selectivity, Journal of Materials Chemistry A 9 (37), 21175-21183, 2021                 | 17        | 2021 |
-| Computational design of metal–organic frameworks with unprecedented high hydrogen working capacity and high synthesizability, Chemistry of Materials 35 (1), 9-16, 2022 | 10        | 2022 |
-| New model for S-shaped isotherm data and its application to process modeling using IAST, Chemical Engineering Journal 420, 127580, 2021                                 | 10        | 2021 |
-| Isotherm parameter library and evaluation software for CO2 capture adsorbents, Computers & Chemical Engineering 143, 107105, 2020                                       | 10        | 2020 |
-| Deep learning-based initial guess for minimum energy path calculations, Korean Journal of Chemical Engineering 38, 406-410, 2021                                        | 1         | 2021 |
-| Real-time probabilistic backfill thermal property estimation method enabling estimation convergence judgment, Case Studies in Thermal Engineering 48, 103108, 2023      | 0         | 2023 |
-| Automatic Object Extraction from Electronic Documents Using Deep Neural Network, KIPS Transactions on Software and Data Engineering 7 (11), 411-418, 2018               | 0         | 2018 |
+### Other papers
+| Title                                                                                                                                                                                                  | Citations | Year |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|
+| Applications of machine learning in metal-organic frameworks, S Chong, S Lee, B Kim, J Kim, *Coordination Chemistry Reviews 423, 213487, 2020*                                                         | 99        | 2020 |
+| Finding hidden signals in chemical sensors using deep learning, SY Cho,  Y Lee,  S Lee et al., *Analytical chemistry 92 (9), 6529-6537, 2020*                                                          | 35        | 2020 |
+| Size-Matching Ligand Insertion in MOF-74 for Enhanced CO2 Capture under Humid Conditions, BL Suh, S Lee, J Kim, *The Journal of Physical Chemistry C 121 (44), 24444-24451, 2017*                      | 32        | 2017 |
+| Finely tuned inverse design of metal–organic frameworks with user-desired Xe/Kr selectivity, Y Lim, J Park, S Lee, J Kim, *Journal of Materials Chemistry A 9 (37), 21175-21183, 2021*                 | 17        | 2021 |
+| New model for S-shaped isotherm data and its application to process modeling using IAST, S Ga, S Lee, G Park, J Kim, M Realff, JH Lee, *Chemical Engineering Journal 420, 127580, 2021*                | 11        | 2021 |
+| Computational design of metal–organic frameworks with unprecedented high hydrogen working capacity and high synthesizability, J Park, Y Lim, S Lee, J Kim, *Chemistry of Materials 35 (1), 9-16, 2022* | 10        | 2022 |
+| Isotherm parameter library and evaluation software for CO2 capture adsorbents, S Ga, S Lee, J Kim, JH Lee, *Computers & Chemical Engineering 143, 107105, 2020*                                        | 10        | 2020 |
+| Deep learning-based initial guess for minimum energy path calculations, H Park, S Lee, J Kim, *Korean Journal of Chemical Engineering 38, 406-410, 2021*                                               | 1         | 2021 |
+| Real-time probabilistic backfill thermal property estimation method enabling estimation convergence judgment, W Choi, S Lee, BH Dinh, YS Kim, *Case Studies in Thermal Engineering 48, 103108, 2023*   |           | 2023 |
+| Automatic Object Extraction from Electronic Documents Using Deep Neural Network, H Jang, Y Chae, S Lee, J Jo, *KIPS Transactions on Software and Data Engineering 7 (11), 411-418, 2018*               |           | 2018 |
 
 ## Projects
 
 ### LG Chem
 
-#### Prediction of oxidation states and coordination number from XANES using deep learning
+#### Predicting oxidation states and coordination numbers from XANES using deep learning (2021, with LG AI Research)
 
-* Patent application submitted
-* Technologies used:
+* Contributions: designed deep learning architecture, developed  knowledge transfer method
+* *Patent application submitted*
 
-#### Segmentation tools with SAM
-* Technologies used:
+#### Building MLOps infrastructure for instance sementation models (2021-2022)
+* Contributions: designed infrastructure architecture, established the infrastructure
 
-#### CNT length analysis for SEM images
-* Technologies used:
-* Function:
+#### Developmenet of a segmentation tool using segment anything model (2023)
+* Contributions: worked on backend development
 
-#### Homocrystalinity analysis of cathode using machine learning
-* Patent application submitted
-* Technologies used:
+#### Analysis length dimension of carbon nanotubes on SEM images (2023)
+* Contributions: developed a length estimation algorithm, worked on backend development
 
-#### Tortousity estimation of bettery separator using Monte Carlo simaultions
-* Technologies used:
+#### Momocrystalinity analysis of cathodes from EBSD using machine learning (2022-2023)
 
-#### Biodegradation of polymers using kinetics and Bayesian inference
-* Technologies used:
+* Contributions: developed the theory of monocrystallinity, designed deep learning models, worked on backend development
+* *Patent application submitted*
 
-#### EBSD orientation analysis for lithium ion path in cathode
-* Technologies used:
+#### Tortousity estimation of bettery separators using Monte Carlo simaultions (2022)
+* Contributions: developed a tortuosity calculation algorithm, created a 3D visualization tool.
 
-#### Determination of diffusion coefficient of lithum in separator
-* Function: theory development
+#### Predicting biodegradation of polymers using kinetics and Bayesian inference (2022-2023)
+* Contributions: developed a kinetics model for polymer biodegradation, designed a Bayesian inference model, contributed to backend development
 
-#### Orientation analysis of glass fibers in the engineering plastic
-* Technologies used:
+#### EBSD orientation analysis for lithium-ion path in cathodes (2022)
+* Contributions: Developed the theory, contributed to backend development
+
+#### Determination of the diffusion coefficient of lithum in separators (2023)
+* Contributions: developed the theory for the diffusion model
+
+#### Orientation analysis of glass fibers in the engineering plastics (2021)
+* Contributions: developed deep learning model
+
+#### Classification of crystal phases in cathodes from 4D-STEM data (2023)
+* Contributions: developed a diffraction pattern classification algorithm
 
 ## Softwares & Libraries
 
@@ -105,13 +113,13 @@ B.S. in Chemical Engineering	(Feb. 2014)
 
 [GitHub Repository](https://github.com/BET-lab/DeepTimeSeries)
 
-Deep learning library for time series forecasting based on PyTorch
+A deep learning library designed for time series forecasting, built on the PyTorch framework
 
-### Pormake (Python)
+### PORMAKE (Python)
 
 [GitHub Repository](https://github.com/Sangwon91/PORMAKE)
 
-Python library for the construction of porous materials using topology and building blocks
+A Python library for the construction of porous materials using topology and building blocks
 
 ### IAST++ (C++)
 
@@ -123,31 +131,31 @@ User-friendly software for ideal adsorbed solution theory calculations
 
 [GitHub Repository](https://github.com/Sangwon91/GRIDAY)
 
-Energy shape calculator for the porous materials
+An energy shape calculator for the porous materials
 
 ### PC-SAFT (Fortran)
 
 [GitHub Repository](https://github.com/Sangwon91/PC-SAFT)
 
-Software for calculation of chemical equalibrium using perturbed chain statistical associating fluid theory
+A software tool that facilitates the calculation of chemical equilibrium using perturbed chain statistical associating fluid theory
 
 ### MonteCarloSimulator (Fortran)
 
 [GitHub Repository](https://github.com/Sangwon91/MonteCarloSimulator)
 
-Molecular Monte Carlo simulator for the free energy calculations of molecules in fluid and solid states
+A molecular Monte Carlo simulator employed for free energy calculations of molecules in both fluid and solid states
 
 ### dartwork-mpl (Python, Matplotlib)
 
 [GitHub Repository](https://github.com/BET-lab/dartwork-mpl)
 
-Matplotlib styling and utility package for the creation of publication-ready figures
+A Matplotlib styling and utility package crafted for the creation of publication-ready figures
 
 ### LabeledImage (Python)
 
 (private, LG Chem)
 
-Library for the management of labeled images for instance segmentations. This library includes format conversion, patch detection aggregation and image augmentation tools
+A library designed for managing labeled images, specifically tailored for instance segmentations. This library includes tools for format conversion, patch detection aggregation, and image augmentation.
 
 ### Deep learning architectures
 
@@ -158,129 +166,135 @@ Library for the management of labeled images for instance segmentations. This li
 [GitHub Repository](https://github.com/Sangwon91/MOF-NET-GRAPH)
 (Graph-network version)
 
-Deep neural network for the prediction of MOF properties from topology and building blocks.
+A deep neural network engineered for predicting MOF (Metal-Organic Framework) properties based on topology and building blocks
 
 #### ZeoGAN (Tensorflow)
 
 [GitHub Repository](https://github.com/Sangwon91/ZeoGAN)
 
-GAN for inverse design of zeolites
+A generative adversarial network (GAN) designed for the inverse design of zeolites
 
 #### ESGAN (Tensorflow)
 
 [GitHub Repository](https://github.com/Sangwon91/ESGAN)
 
-GAN for generation of energy shape of porous materials
+A generative adversarial network (GAN) created for generating energy shapes of porous materials
 
 #### XANES-Net (PyTorch)
 
-(private, LG Chem)
+(private, LG Chem, with LG AI Research)
 
-Architecture for the prediction of oxidation states and coodination numbers from XANES using knowledge transfer from crystal structures
+An architecture developed for predicting oxidation states and coordination numbers from XANES data, leveraging knowledge transfer from crystal structures
 
 ## Skills
 
-*ooo: advanced, oo: intermediate, o: basic*
+<span style="color:#0F52BA;"><b>o</b></span>: Usable with some time investment
+
+<span style="color:#0F52BA;"><b>oo</b></span>: Proficiently usable
+
+<span style="color:#0F52BA;"><b>ooo</b></span>: Usable at an expert level
 
 ### Programming languages
-* C/C++ [ooo]
-* Python [ooo]
-* Fortran [ooo]
-* Mathematica [ooo]
-* Javascript [o]
-* Rust [o]
+* C/C++ <span style="color:#0F52BA;"><b>ooo</b></span>
+* Python <span style="color:#0F52BA;"><b>ooo</b></span>
+* Fortran <span style="color:#0F52BA;"><b>ooo</b></span>
+* Mathematica <span style="color:#0F52BA;"><b>ooo</b></span>
+* Javascript <span style="color:#0F52BA;"><b>o</b></span>
+* Rust <span style="color:#0F52BA;"><b>o</b></span>
 
 ### Machine learning
-* PyTorch [ooo]
-* Tensorflow [ooo]
-* PyTorch Lightning [ooo]
-* PyTorch Geometric [o]
-* Detectron2 [oo]
-* MMDetection [oo]
-* scikit-learn [oo]
-* XGBoost [o]
-* JAX [o]
-* Darts [oo]
+* PyTorch <span style="color:#0F52BA;"><b>ooo</b></span>
+* Tensorflow <span style="color:#0F52BA;"><b>ooo</b></span>
+* PyTorch Lightning <span style="color:#0F52BA;"><b>ooo</b></span>
+* PyTorch Geometric <span style="color:#0F52BA;"><b>o</b></span>
+* Detectron2 <span style="color:#0F52BA;"><b>oo</b></span>
+* MMDetection <span style="color:#0F52BA;"><b>oo</b></span>
+* scikit-learn <span style="color:#0F52BA;"><b>oo</b></span>
+* XGBoost <span style="color:#0F52BA;"><b>o</b></span>
+* JAX <span style="color:#0F52BA;"><b>oo</b></span>
+* Darts <span style="color:#0F52BA;"><b>oo</b></span>
 
 ### Bayesian inference
-* PyMC [ooo]
-* Pyro [o]
+* PyMC <span style="color:#0F52BA;"><b>ooo</b></span>
+* Pyro <span style="color:#0F52BA;"><b>o</b></span>
 
 ### Data visualization
-* Matplotlib [ooo]
-* Seaborn [oo]
-* Plotly [oo]
-* Bokeh [o]
-* d3.js [oo]
+* Matplotlib <span style="color:#0F52BA;"><b>ooo</b></span>
+* Seaborn <span style="color:#0F52BA;"><b>oo</b></span>
+* Plotly <span style="color:#0F52BA;"><b>oo</b></span>
+* Bokeh <span style="color:#0F52BA;"><b>o</b></span>
+* d3.js <span style="color:#0F52BA;"><b>o</b></span>
 
 ### Version control
-* Git [oo]
-* GitHub [oo]
+* Git <span style="color:#0F52BA;"><b>oo</b></span>
+* GitHub <span style="color:#0F52BA;"><b>oo</b></span>
 
 ### CI/CD
-* Github Actions [o]
+* Github Actions <span style="color:#0F52BA;"><b>oo</b></span>
 
 ### Package and project management
-* Poetry & Pyenv [ooo]
-* Conda [o]
+* Poetry & Pyenv <span style="color:#0F52BA;"><b>ooo</b></span>
+* Conda <span style="color:#0F52BA;"><b>oo</b></span>
 
 ### Unit test
-* pytest [o]
+* pytest <span style="color:#0F52BA;"><b>oo</b></span>
 
 ### Data structure & numerical analysis
-* Pandas [ooo]
-* Xarray [oo]
-* NumPy [ooo]
-* SciPy [ooo]
+* Pandas <span style="color:#0F52BA;"><b>ooo</b></span>
+* Xarray <span style="color:#0F52BA;"><b>oo</b></span>
+* NumPy <span style="color:#0F52BA;"><b>ooo</b></span>
+* SciPy <span style="color:#0F52BA;"><b>ooo</b></span>
 
 ### GUI programming
-* Qt, PySide6 [ooo]
+* Qt, PySide6 <span style="color:#0F52BA;"><b>ooo</b></span>
 
 ### Symbolic computation
-* Mathematica [ooo]
-* SymPy [oo]
+* Mathematica <span style="color:#0F52BA;"><b>ooo</b></span>
+* SymPy <span style="color:#0F52BA;"><b>oo</b></span>
 
 ### Computer vision
-* OpenCV [ooo]
-* scikit-image [ooo]
+* OpenCV <span style="color:#0F52BA;"><b>ooo</b></span>
+* scikit-image <span style="color:#0F52BA;"><b>ooo</b></span>
 
 ### 3D visualization
-* PyVista [ooo]
-* OpenGL (GLSL) [o]
-* Panda3D [oo]
+* PyVista <span style="color:#0F52BA;"><b>ooo</b></span>
+* OpenGL (GLSL) <span style="color:#0F52BA;"><b>o</b></span>
+* Panda3D <span style="color:#0F52BA;"><b>oo</b></span>
 
 ### Containerization
-* Docker [oo]
-* Docker compose [oo]
+* Docker <span style="color:#0F52BA;"><b>oo</b></span>
+* Docker compose <span style="color:#0F52BA;"><b>oo</b></span>
 
-### Backend & ML serving
-* FastAPI [oo]
-* MLflow models [oo]
-
+### Back-end & ML serving
+* FastAPI <span style="color:#0F52BA;"><b>oo</b></span>
+* MLflow models <span style="color:#0F52BA;"><b>oo</b></span>
 
 ### Documentation
-* Sphinx [ooo]
-* LaTeX [oo]
+* Sphinx <span style="color:#0F52BA;"><b>oo</b></span>
+* LaTeX <span style="color:#0F52BA;"><b>oo</b></span>
 
 ### MLOps
-* MLflow [ooo]
-* Tensorboard [o]
+* MLflow <span style="color:#0F52BA;"><b>ooo</b></span>
+* Tensorboard <span style="color:#0F52BA;"><b>o</b></span>
 
 ### Reverse proxy
-* Traefik [oo]
+* Traefik <span style="color:#0F52BA;"><b>oo</b></span>
 
-### Configuration
-* Hydra [oo]
+### Configuration management
+* Hydra <span style="color:#0F52BA;"><b>oo</b></span>
 
 ### Operating system
-* Linux (Ubuntu, CentOS) [oo]
+* Linux (Ubuntu, CentOS) <span style="color:#0F52BA;"><b>oo</b></span>
 
 ### Molecular simulations
-* PyMatGen [ooo]
-* ASE [ooo]
-* LAMMPS [ooo]
-* VASP [o]
-* PySCF [o]
+* PyMatGen <span style="color:#0F52BA;"><b>ooo</b></span>
+* ASE <span style="color:#0F52BA;"><b>ooo</b></span>
+* LAMMPS <span style="color:#0F52BA;"><b>ooo</b></span>
+* VASP <span style="color:#0F52BA;"><b>o</b></span>
+* PySCF <span style="color:#0F52BA;"><b>o</b></span>
+
+### Database
+* SQLite <span style="color:#0F52BA;"><b>o</b></span>
 
 ## Presentations
 
