@@ -784,8 +784,8 @@ sub {
 
     /* For good looks of table in extracted PDF */
     tr {
-        /* page-break-inside: avoid !important; */
-        page-break-inside: auto
+        page-break-inside: avoid !important;
+        /* page-break-inside: auto */
     }
 
     body {
