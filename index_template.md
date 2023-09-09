@@ -36,12 +36,11 @@ B.S. in Chemical Engineering	(Feb. 2014)
 * Molecular simulations
 * Analytical chemistry
 * Software engineering
+* Numerical analysis
 
 ## Publications
 
 <span style="font-size: 90%; color: gray">*The number of citations is obtained by scraping Google Scholar</span>
-
-|
 
 ### First and co-first author papers
 {{ table1 }}
