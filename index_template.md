@@ -35,9 +35,13 @@ B.S. in Chemical Engineering	(Feb. 2014)
 * Energy management system
 * Molecular simulations
 * Analytical chemistry
-* Software development
+* Software engineering
 
 ## Publications
+
+<span style="font-size: 90%; color: gray">*The number of citations is obtained by scraping Google Scholar</span>
+
+|
 
 ### First and co-first author papers
 {{ table1 }}
@@ -282,7 +286,7 @@ An architecture developed for predicting oxidation states and coordination numbe
 
 * Evaluating Performance Limits of Methane Storage Separations of Porous Materials Using Artificial Neural Network, IUMRS-ICEM 2018
 
-### Poster
+### Posters
 * IAST++: Software for Ideal Adsorbed Solution Theory (IAST) Calculations with User-friendly Interface, 2017 KIChE Fall Meeting and International Symposium
 
 * Sensitivity Analysis of CO2 Capture Materials in Post-combustion Flue Gas, ChemIndix 2016
