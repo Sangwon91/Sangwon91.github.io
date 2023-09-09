@@ -83,24 +83,24 @@ B.S. in Chemical Engineering	(Feb. 2014)
 * Contributions: designed infrastructure architecture, established the infrastructure
 
 #### Developmenet of a segmentation tool using segment anything model (2023)
-* Contributions: worked on backend development
+* Contributions: worked on back-end development
 
-#### Analysis length dimension of carbon nanotubes on SEM images (2023)
-* Contributions: developed a length estimation algorithm, worked on backend development
+#### Estimation of length dimension of carbon nanotubes in SEM images (2023)
+* Contributions: developed a length estimation algorithm, worked on back-end development
 
 #### Monocrystalinity analysis of cathodes from EBSD using machine learning (2022-2023)
 
-* Contributions: developed the theory of monocrystallinity, designed deep learning models, worked on backend development
+* Contributions: developed the theory of monocrystallinity, designed deep learning models, worked on back-end development
 * *Patent application submitted*
 
 #### Tortousity estimation of bettery separators using Monte Carlo simaultions (2022)
 * Contributions: developed a tortuosity calculation algorithm, created a 3D visualization tool
 
 #### Predicting biodegradation of polymers using kinetics and Bayesian inference (2022-2023)
-* Contributions: developed a kinetics model for polymer biodegradation, designed a Bayesian inference model, contributed to backend development
+* Contributions: developed a kinetics model for polymer biodegradation, designed a Bayesian inference model, contributed to back-end development
 
 #### EBSD orientation analysis for lithium-ion path in cathodes (2022)
-* Contributions: developed the theory, contributed to backend development
+* Contributions: developed the theory, contributed to back-end development
 
 #### Determination of the diffusion coefficient of lithum in separators (2023)
 * Contributions: developed the theory for the diffusion model
