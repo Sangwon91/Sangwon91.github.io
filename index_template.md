@@ -29,7 +29,7 @@ of molecular crystals using Monte Carlo simulations (Advisor: Jaeeon Chang)</spa
 B.S. in Chemical Engineering	(Feb. 2014)
 
 ## Research interests
-* Materials informatics
+* Artificial intelligence for materials
 * Machine learning
 * Bayesian inference
 * Energy management system

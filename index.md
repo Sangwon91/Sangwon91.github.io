@@ -1,4 +1,4 @@
-Last updated: Sep 11, 2023
+Last updated: Sep 24, 2023
 
 Professional, Data Analysis PJT, Analytical Sciences Center, LG Chem
 
@@ -29,7 +29,7 @@ of molecular crystals using Monte Carlo simulations (Advisor: Jaeeon Chang)</spa
 B.S. in Chemical Engineering	(Feb. 2014)
 
 ## Research interests
-* Materials informatics
+* Artificial intelligence for materials
 * Machine learning
 * Bayesian inference
 * Energy management system
@@ -45,20 +45,20 @@ B.S. in Chemical Engineering	(Feb. 2014)
 ### First and co-first author papers
 | Title                                                                                                                                                                                                                    | Citations | Year |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|
-| (Contributed Equally) Inverse design of porous materials using artificial neural networks, B Kim, S Lee, J Kim, *Science advances 6 (1), eaax9324, 2020*                                                                 | 219       | 2020 |
+| (Contributed Equally) Inverse design of porous materials using artificial neural networks, B Kim, S Lee, J Kim, *Science advances 6 (1), eaax9324, 2020*                                                                 | 223       | 2020 |
 | User-friendly graphical user interface software for ideal adsorbed solution theory calculations, S Lee, JH Lee, J Kim, *Korean Journal of Chemical Engineering 35, 214-221, 2018*                                        | 81        | 2018 |
 | Computational screening of trillions of metal–organic frameworks for high-performance methane storage, S Lee,  B Kim,  H Cho et al., *ACS Applied Materials & Interfaces 13 (20), 23647-23654, 2021*                     | 67        | 2021 |
 | Predicting performance limits of methane gas storage in zeolites with an artificial neural network, S Lee, B Kim, J Kim, *Journal of Materials Chemistry A 7 (6), 2709-2716, 2019*                                       | 40        | 2019 |
 | (Contributed Equally) Computational Analysis of Linker Defective Metal–Organic Frameworks for Membrane Separation Applications, H Kim, S Lee, J Kim, *Langmuir 35 (11), 3917-3924, 2019*                                 | 9         | 2019 |
 | (Contributed Equally) Machine learning-based discovery of molecules, crystals, and composites: A perspective review, S Lee, H Byun, M Cheon, J Kim, JH Lee, *Korean Journal of Chemical Engineering, 1-12, 2021*         | 5         | 2021 |
-| (Contributed Equally) Performance Evaluation of Deep Learning Architectures for Load and Temperature Forecasting under Dataset Size Constraints and Seasonality, W Choi, S Lee, *Energy and Buildings, 113027, 2023*     | 2         | 2023 |
+| (Contributed Equally) Performance Evaluation of Deep Learning Architectures for Load and Temperature Forecasting under Dataset Size Constraints and Seasonality, W Choi, S Lee, *Energy and Buildings, 113027, 2023*     | 3         | 2023 |
 | Chemical potential and solid-solid equilibrium of near-spherical Lennard-Jones dumbbell crystal, S Lee, M Kim, J Chang, *Korean Journal of Chemical Engineering 33, 1047-1058, 2016*                                     | 1         | 2016 |
 | (Contributed Equally) Interpretable deep learning model for load and temperature forecasting: Depending on encoding length, models may be cheating on wrong answers, W Choi, S Lee, *Energy and Buildings, 113410, 2023* |           | 2023 |
 
 ### Other papers
 | Title                                                                                                                                                                                                  | Citations | Year |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|
-| Applications of machine learning in metal-organic frameworks, S Chong, S Lee, B Kim, J Kim, *Coordination Chemistry Reviews 423, 213487, 2020*                                                         | 99        | 2020 |
+| Applications of machine learning in metal-organic frameworks, S Chong, S Lee, B Kim, J Kim, *Coordination Chemistry Reviews 423, 213487, 2020*                                                         | 100       | 2020 |
 | Finding hidden signals in chemical sensors using deep learning, SY Cho,  Y Lee,  S Lee et al., *Analytical chemistry 92 (9), 6529-6537, 2020*                                                          | 35        | 2020 |
 | Size-Matching Ligand Insertion in MOF-74 for Enhanced CO2 Capture under Humid Conditions, BL Suh, S Lee, J Kim, *The Journal of Physical Chemistry C 121 (44), 24444-24451, 2017*                      | 32        | 2017 |
 | Finely tuned inverse design of metal–organic frameworks with user-desired Xe/Kr selectivity, Y Lim, J Park, S Lee, J Kim, *Journal of Materials Chemistry A 9 (37), 21175-21183, 2021*                 | 17        | 2021 |
