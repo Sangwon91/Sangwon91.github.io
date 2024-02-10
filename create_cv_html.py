@@ -29,9 +29,9 @@ def main():
             table1=main_table,
             table2=others_table,
             today=formatted_date,
-            L1='<span class=level>●</span>',
-            L2='<span class=level>●●</span>',
-            L3='<span class=level>●●●</span>',
+            L1='<span class=level>&#9679;</span>',
+            L2='<span class=level>&#9679;&#9679;</span>',
+            L3='<span class=level>&#9679;&#9679;&#9679;</span>',
         ))
 
 

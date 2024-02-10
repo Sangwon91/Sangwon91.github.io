@@ -195,113 +195,113 @@ An architecture developed for predicting oxidation states and coordination numbe
 
 ## Skills
 
-<span class=level>●</span>: Usable with some time investment
+<span class=level>&#9679;</span>: Usable with some time investment
 
-<span class=level>●●</span>: Proficiently usable
+<span class=level>&#9679;&#9679;</span>: Proficiently usable
 
-<span class=level>●●●</span>: Usable at an expert level
+<span class=level>&#9679;&#9679;&#9679;</span>: Usable at an expert level
 
 ### Programming languages
-* C/C++ <span class=level>●●●</span>
-* Python <span class=level>●●●</span>
-* Fortran <span class=level>●●●</span>
-* Mathematica <span class=level>●●●</span>
-* Javascript <span class=level>●</span>
-* Rust <span class=level>●</span>
+* C/C++ <span class=level>&#9679;&#9679;&#9679;</span>
+* Python <span class=level>&#9679;&#9679;&#9679;</span>
+* Fortran <span class=level>&#9679;&#9679;&#9679;</span>
+* Mathematica <span class=level>&#9679;&#9679;&#9679;</span>
+* Javascript <span class=level>&#9679;</span>
+* Rust <span class=level>&#9679;</span>
 
 ### Machine learning
-* PyTorch <span class=level>●●●</span>
-* Tensorflow <span class=level>●●●</span>
-* PyTorch Lightning <span class=level>●●●</span>
-* PyTorch Geometric <span class=level>●</span>
-* Detectron2 <span class=level>●●</span>
-* MMDetection <span class=level>●●</span>
-* scikit-learn <span class=level>●●</span>
-* XGBoost <span class=level>●</span>
-* JAX <span class=level>●●</span>
-* Darts <span class=level>●●</span>
+* PyTorch <span class=level>&#9679;&#9679;&#9679;</span>
+* Tensorflow <span class=level>&#9679;&#9679;&#9679;</span>
+* PyTorch Lightning <span class=level>&#9679;&#9679;&#9679;</span>
+* PyTorch Geometric <span class=level>&#9679;</span>
+* Detectron2 <span class=level>&#9679;&#9679;</span>
+* MMDetection <span class=level>&#9679;&#9679;</span>
+* scikit-learn <span class=level>&#9679;&#9679;</span>
+* XGBoost <span class=level>&#9679;</span>
+* JAX <span class=level>&#9679;&#9679;</span>
+* Darts <span class=level>&#9679;&#9679;</span>
 
 ### Bayesian inference
-* PyMC <span class=level>●●●</span>
-* Pyro <span class=level>●</span>
+* PyMC <span class=level>&#9679;&#9679;&#9679;</span>
+* Pyro <span class=level>&#9679;</span>
 
 ### Data visualization
-* Matplotlib <span class=level>●●●</span>
-* Seaborn <span class=level>●●</span>
-* Plotly <span class=level>●●</span>
-* Bokeh <span class=level>●</span>
-* d3.js <span class=level>●</span>
+* Matplotlib <span class=level>&#9679;&#9679;&#9679;</span>
+* Seaborn <span class=level>&#9679;&#9679;</span>
+* Plotly <span class=level>&#9679;&#9679;</span>
+* Bokeh <span class=level>&#9679;</span>
+* d3.js <span class=level>&#9679;</span>
 
 ### Version control
-* Git <span class=level>●●</span>
-* GitHub <span class=level>●●</span>
+* Git <span class=level>&#9679;&#9679;</span>
+* GitHub <span class=level>&#9679;&#9679;</span>
 
 ### CI/CD
-* Github Actions <span class=level>●●</span>
+* Github Actions <span class=level>&#9679;&#9679;</span>
 
 ### Package and project management
-* Poetry & Pyenv <span class=level>●●●</span>
-* Conda <span class=level>●●</span>
+* Poetry & Pyenv <span class=level>&#9679;&#9679;&#9679;</span>
+* Conda <span class=level>&#9679;&#9679;</span>
 
 ### Unit test
-* pytest <span class=level>●●</span>
+* pytest <span class=level>&#9679;&#9679;</span>
 
 ### Data structure & numerical analysis
-* Pandas <span class=level>●●●</span>
-* Xarray <span class=level>●●</span>
-* NumPy <span class=level>●●●</span>
-* SciPy <span class=level>●●●</span>
+* Pandas <span class=level>&#9679;&#9679;&#9679;</span>
+* Xarray <span class=level>&#9679;&#9679;</span>
+* NumPy <span class=level>&#9679;&#9679;&#9679;</span>
+* SciPy <span class=level>&#9679;&#9679;&#9679;</span>
 
 ### GUI programming
-* Qt, PySide6 <span class=level>●●●</span>
+* Qt, PySide6 <span class=level>&#9679;&#9679;&#9679;</span>
 
 ### Symbolic computation
-* Mathematica <span class=level>●●●</span>
-* SymPy <span class=level>●●</span>
+* Mathematica <span class=level>&#9679;&#9679;&#9679;</span>
+* SymPy <span class=level>&#9679;&#9679;</span>
 
 ### Computer vision
-* OpenCV <span class=level>●●●</span>
-* scikit-image <span class=level>●●●</span>
+* OpenCV <span class=level>&#9679;&#9679;&#9679;</span>
+* scikit-image <span class=level>&#9679;&#9679;&#9679;</span>
 
 ### 3D visualization
-* PyVista <span class=level>●●●</span>
-* OpenGL (GLSL) <span class=level>●</span>
-* Panda3D <span class=level>●●</span>
+* PyVista <span class=level>&#9679;&#9679;&#9679;</span>
+* OpenGL (GLSL) <span class=level>&#9679;</span>
+* Panda3D <span class=level>&#9679;&#9679;</span>
 
 ### Containerization
-* Docker <span class=level>●●</span>
-* Docker compose <span class=level>●●</span>
+* Docker <span class=level>&#9679;&#9679;</span>
+* Docker compose <span class=level>&#9679;&#9679;</span>
 
 ### Back-end & ML serving
-* FastAPI <span class=level>●●</span>
-* MLflow models <span class=level>●●</span>
+* FastAPI <span class=level>&#9679;&#9679;</span>
+* MLflow models <span class=level>&#9679;&#9679;</span>
 
 ### Documentation
-* Sphinx <span class=level>●●</span>
-* LaTeX <span class=level>●●</span>
+* Sphinx <span class=level>&#9679;&#9679;</span>
+* LaTeX <span class=level>&#9679;&#9679;</span>
 
 ### MLOps
-* MLflow <span class=level>●●●</span>
-* Tensorboard <span class=level>●</span>
+* MLflow <span class=level>&#9679;&#9679;&#9679;</span>
+* Tensorboard <span class=level>&#9679;</span>
 
 ### Reverse proxy
-* Traefik <span class=level>●●</span>
+* Traefik <span class=level>&#9679;&#9679;</span>
 
 ### Configuration management
-* Hydra <span class=level>●●</span>
+* Hydra <span class=level>&#9679;&#9679;</span>
 
 ### Operating system
-* Linux (Ubuntu, CentOS) <span class=level>●●</span>
+* Linux (Ubuntu, CentOS) <span class=level>&#9679;&#9679;</span>
 
 ### Molecular simulations
-* PyMatGen <span class=level>●●●</span>
-* ASE <span class=level>●●●</span>
-* LAMMPS <span class=level>●●●</span>
-* VASP <span class=level>●</span>
-* PySCF <span class=level>●</span>
+* PyMatGen <span class=level>&#9679;&#9679;&#9679;</span>
+* ASE <span class=level>&#9679;&#9679;&#9679;</span>
+* LAMMPS <span class=level>&#9679;&#9679;&#9679;</span>
+* VASP <span class=level>&#9679;</span>
+* PySCF <span class=level>&#9679;</span>
 
 ### Database
-* SQLite <span class=level>●</span>
+* SQLite <span class=level>&#9679;</span>
 
 ## Presentations
 
