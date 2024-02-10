@@ -1139,3 +1139,31 @@ sub {
 .type-csharp .highlight .sc {
     color: #a31515
 }
+
+.badge {
+    background-color: rgb(61, 131, 253);
+    color: white;
+    padding: 2px 4px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 80%;
+    /* font-weight: bold; */
+}
+
+.sq {
+    background-color: rgb(48, 124, 255);
+    color: white;
+    padding: 2px 4px;
+    text-align: center;
+    border-radius: 3px;
+    font-size: 30%;
+    vertical-align: middle;
+    /* padding-left: 15px; */
+}
+
+.level {
+    color:#2268d1;
+    font-weight:bold;
+    text-align: top;
+    /* text-shadow: -1px 0px #2268d1, 0px 1px #2268d1, 1px 0px #2268d1, 0px -1px #2268d1; */
+}

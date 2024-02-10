@@ -1,4 +1,4 @@
-Last updated: Sep 24, 2023
+Last updated: Feb 10, 2024
 
 Professional, Data Analysis PJT, Analytical Sciences Center, LG Chem
 
@@ -43,27 +43,28 @@ B.S. in Chemical Engineering	(Feb. 2014)
 <span style="font-size: 90%; color: gray">*The number of citations is obtained by scraping Google Scholar</span>
 
 ### First and co-first author papers
-| Title                                                                                                                                                                                                                    | Citations | Year |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|
-| (Contributed Equally) Inverse design of porous materials using artificial neural networks, B Kim, S Lee, J Kim, *Science advances 6 (1), eaax9324, 2020*                                                                 | 223       | 2020 |
-| User-friendly graphical user interface software for ideal adsorbed solution theory calculations, S Lee, JH Lee, J Kim, *Korean Journal of Chemical Engineering 35, 214-221, 2018*                                        | 81        | 2018 |
-| Computational screening of trillions of metal–organic frameworks for high-performance methane storage, S Lee,  B Kim,  H Cho et al., *ACS Applied Materials & Interfaces 13 (20), 23647-23654, 2021*                     | 67        | 2021 |
-| Predicting performance limits of methane gas storage in zeolites with an artificial neural network, S Lee, B Kim, J Kim, *Journal of Materials Chemistry A 7 (6), 2709-2716, 2019*                                       | 40        | 2019 |
-| (Contributed Equally) Computational Analysis of Linker Defective Metal–Organic Frameworks for Membrane Separation Applications, H Kim, S Lee, J Kim, *Langmuir 35 (11), 3917-3924, 2019*                                 | 9         | 2019 |
-| (Contributed Equally) Machine learning-based discovery of molecules, crystals, and composites: A perspective review, S Lee, H Byun, M Cheon, J Kim, JH Lee, *Korean Journal of Chemical Engineering, 1-12, 2021*         | 5         | 2021 |
-| (Contributed Equally) Performance Evaluation of Deep Learning Architectures for Load and Temperature Forecasting under Dataset Size Constraints and Seasonality, W Choi, S Lee, *Energy and Buildings, 113027, 2023*     | 3         | 2023 |
-| Chemical potential and solid-solid equilibrium of near-spherical Lennard-Jones dumbbell crystal, S Lee, M Kim, J Chang, *Korean Journal of Chemical Engineering 33, 1047-1058, 2016*                                     | 1         | 2016 |
-| (Contributed Equally) Interpretable deep learning model for load and temperature forecasting: Depending on encoding length, models may be cheating on wrong answers, W Choi, S Lee, *Energy and Buildings, 113410, 2023* |           | 2023 |
+| Title                                                                                                                                                                                                                                                                                                                                                             | Citations | Year |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|
+| (Contributed Equally) Inverse design of porous materials using artificial neural networks, B Kim, S Lee, J Kim, *Science advances 6 (1), eaax9324, 2020*<br><span class="badge">deep learning</span> <span class="badge">molecular simulations</span> <span class="badge">materials discovery</span>                                                              | 248       | 2020 |
+| Computational screening of trillions of metal–organic frameworks for high-performance methane storage, S Lee,  B Kim,  H Cho et al., *ACS Applied Materials & Interfaces 13 (20), 23647-23654, 2021*<br><span class="badge">deep learning</span> <span class="badge">molecular simulations</span> <span class="badge">materials discovery</span>                  | 94        | 2021 |
+| User-friendly graphical user interface software for ideal adsorbed solution theory calculations, S Lee, JH Lee, J Kim, *Korean Journal of Chemical Engineering 35, 214-221, 2018*<br><span class="badge">numerical analysis</span> <span class="badge">software design</span> <span class="badge">thermodynamics</span>                                           | 90        | 2018 |
+| Predicting performance limits of methane gas storage in zeolites with an artificial neural network, S Lee, B Kim, J Kim, *Journal of Materials Chemistry A 7 (6), 2709-2716, 2019*<br><span class="badge">deep learning</span> <span class="badge">molecular simulations</span> <span class="badge">materials discovery</span>                                    | 43        | 2019 |
+| (Contributed Equally) Computational Analysis of Linker Defective Metal–Organic Frameworks for Membrane Separation Applications, H Kim, S Lee, J Kim, *Langmuir 35 (11), 3917-3924, 2019*<br><span class="badge">deep learning</span> <span class="badge">molecular simulations</span> <span class="badge">numerical analysis</span>                               | 10        | 2019 |
+| (Contributed Equally) Machine learning-based discovery of molecules, crystals, and composites: A perspective review, S Lee, H Byun, M Cheon, J Kim, JH Lee, *Korean Journal of Chemical Engineering, 1-12, 2021*<br><span class="badge">machine learning</span> <span class="badge">materials discovery</span>                                                    | 6         | 2021 |
+| (Contributed Equally) Performance Evaluation of Deep Learning Architectures for Load and Temperature Forecasting under Dataset Size Constraints and Seasonality, W Choi, S Lee, *Energy and Buildings, 113027, 2023*<br><span class="badge">deep learning</span> <span class="badge">forecasting</span> <span class="badge">energy management systems</span>      | 5         | 2023 |
+| Chemical potential and solid-solid equilibrium of near-spherical Lennard-Jones dumbbell crystal, S Lee, M Kim, J Chang, *Korean Journal of Chemical Engineering 33, 1047-1058, 2016*<br><span class="badge">molecular simulations</span> <span class="badge">numerical analysis</span> <span class="badge">statistical mechanics</span>                           | 1         | 2016 |
+| (Contributed Equally) Interpretable deep learning model for load and temperature forecasting: Depending on encoding length, models may be cheating on wrong answers, W Choi, S Lee, *Energy and Buildings, 113410, 2023*<br><span class="badge">deep learning</span> <span class="badge">forecasting</span> <span class="badge">energy management systems</span>  |           | 2023 |
+| Explainable kinetic modeling for aerobic biodegradation of poly(lactic acid) using Bayesian inferences, S Lee,  K Park,  J Lee et al., *Submitted*<br><span class="badge">Bayesian inferences</span> <span class="badge">kinetic modeling</span> <span class="badge">bio-plastics</span>                                                                          |           | 2024 |
 
 ### Other papers
 | Title                                                                                                                                                                                                  | Citations | Year |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|
-| Applications of machine learning in metal-organic frameworks, S Chong, S Lee, B Kim, J Kim, *Coordination Chemistry Reviews 423, 213487, 2020*                                                         | 100       | 2020 |
-| Finding hidden signals in chemical sensors using deep learning, SY Cho,  Y Lee,  S Lee et al., *Analytical chemistry 92 (9), 6529-6537, 2020*                                                          | 35        | 2020 |
-| Size-Matching Ligand Insertion in MOF-74 for Enhanced CO2 Capture under Humid Conditions, BL Suh, S Lee, J Kim, *The Journal of Physical Chemistry C 121 (44), 24444-24451, 2017*                      | 32        | 2017 |
-| Finely tuned inverse design of metal–organic frameworks with user-desired Xe/Kr selectivity, Y Lim, J Park, S Lee, J Kim, *Journal of Materials Chemistry A 9 (37), 21175-21183, 2021*                 | 17        | 2021 |
-| New model for S-shaped isotherm data and its application to process modeling using IAST, S Ga, S Lee, G Park, J Kim, M Realff, JH Lee, *Chemical Engineering Journal 420, 127580, 2021*                | 11        | 2021 |
-| Computational design of metal–organic frameworks with unprecedented high hydrogen working capacity and high synthesizability, J Park, Y Lim, S Lee, J Kim, *Chemistry of Materials 35 (1), 9-16, 2022* | 10        | 2022 |
+| Applications of machine learning in metal-organic frameworks, S Chong, S Lee, B Kim, J Kim, *Coordination Chemistry Reviews 423, 213487, 2020*                                                         | 116       | 2020 |
+| Finding hidden signals in chemical sensors using deep learning, SY Cho,  Y Lee,  S Lee et al., *Analytical chemistry 92 (9), 6529-6537, 2020*                                                          | 37        | 2020 |
+| Size-Matching Ligand Insertion in MOF-74 for Enhanced CO2 Capture under Humid Conditions, BL Suh, S Lee, J Kim, *The Journal of Physical Chemistry C 121 (44), 24444-24451, 2017*                      | 35        | 2017 |
+| Finely tuned inverse design of metal–organic frameworks with user-desired Xe/Kr selectivity, Y Lim, J Park, S Lee, J Kim, *Journal of Materials Chemistry A 9 (37), 21175-21183, 2021*                 | 21        | 2021 |
+| New model for S-shaped isotherm data and its application to process modeling using IAST, S Ga, S Lee, G Park, J Kim, M Realff, JH Lee, *Chemical Engineering Journal 420, 127580, 2021*                | 14        | 2021 |
+| Computational design of metal–organic frameworks with unprecedented high hydrogen working capacity and high synthesizability, J Park, Y Lim, S Lee, J Kim, *Chemistry of Materials 35 (1), 9-16, 2022* | 12        | 2022 |
 | Isotherm parameter library and evaluation software for CO2 capture adsorbents, S Ga, S Lee, J Kim, JH Lee, *Computers & Chemical Engineering 143, 107105, 2020*                                        | 10        | 2020 |
 | Deep learning-based initial guess for minimum energy path calculations, H Park, S Lee, J Kim, *Korean Journal of Chemical Engineering 38, 406-410, 2021*                                               | 1         | 2021 |
 | Real-time probabilistic backfill thermal property estimation method enabling estimation convergence judgment, W Choi, S Lee, BH Dinh, YS Kim, *Case Studies in Thermal Engineering 48, 103108, 2023*   |           | 2023 |
@@ -109,6 +110,9 @@ B.S. in Chemical Engineering	(Feb. 2014)
 
 #### Classification of crystal phases in cathodes from 4D-STEM data (2023)
 * Contributions: developed a diffraction pattern classification algorithm
+
+#### Deep document understanding (2020, with LG AI Research)
+* Contributions: developed a SMILES image to smiles text model using ResNet and transformer
 
 ## Softwares & Libraries
 
@@ -191,113 +195,113 @@ An architecture developed for predicting oxidation states and coordination numbe
 
 ## Skills
 
-<span style="color:#0F52BA;"><b>o</b></span>: Usable with some time investment
+<span class=level>●</span>: Usable with some time investment
 
-<span style="color:#0F52BA;"><b>oo</b></span>: Proficiently usable
+<span class=level>●●</span>: Proficiently usable
 
-<span style="color:#0F52BA;"><b>ooo</b></span>: Usable at an expert level
+<span class=level>●●●</span>: Usable at an expert level
 
 ### Programming languages
-* C/C++ <span style="color:#0F52BA;"><b>ooo</b></span>
-* Python <span style="color:#0F52BA;"><b>ooo</b></span>
-* Fortran <span style="color:#0F52BA;"><b>ooo</b></span>
-* Mathematica <span style="color:#0F52BA;"><b>ooo</b></span>
-* Javascript <span style="color:#0F52BA;"><b>o</b></span>
-* Rust <span style="color:#0F52BA;"><b>o</b></span>
+* C/C++ <span class=level>●●●</span>
+* Python <span class=level>●●●</span>
+* Fortran <span class=level>●●●</span>
+* Mathematica <span class=level>●●●</span>
+* Javascript <span class=level>●</span>
+* Rust <span class=level>●</span>
 
 ### Machine learning
-* PyTorch <span style="color:#0F52BA;"><b>ooo</b></span>
-* Tensorflow <span style="color:#0F52BA;"><b>ooo</b></span>
-* PyTorch Lightning <span style="color:#0F52BA;"><b>ooo</b></span>
-* PyTorch Geometric <span style="color:#0F52BA;"><b>o</b></span>
-* Detectron2 <span style="color:#0F52BA;"><b>oo</b></span>
-* MMDetection <span style="color:#0F52BA;"><b>oo</b></span>
-* scikit-learn <span style="color:#0F52BA;"><b>oo</b></span>
-* XGBoost <span style="color:#0F52BA;"><b>o</b></span>
-* JAX <span style="color:#0F52BA;"><b>oo</b></span>
-* Darts <span style="color:#0F52BA;"><b>oo</b></span>
+* PyTorch <span class=level>●●●</span>
+* Tensorflow <span class=level>●●●</span>
+* PyTorch Lightning <span class=level>●●●</span>
+* PyTorch Geometric <span class=level>●</span>
+* Detectron2 <span class=level>●●</span>
+* MMDetection <span class=level>●●</span>
+* scikit-learn <span class=level>●●</span>
+* XGBoost <span class=level>●</span>
+* JAX <span class=level>●●</span>
+* Darts <span class=level>●●</span>
 
 ### Bayesian inference
-* PyMC <span style="color:#0F52BA;"><b>ooo</b></span>
-* Pyro <span style="color:#0F52BA;"><b>o</b></span>
+* PyMC <span class=level>●●●</span>
+* Pyro <span class=level>●</span>
 
 ### Data visualization
-* Matplotlib <span style="color:#0F52BA;"><b>ooo</b></span>
-* Seaborn <span style="color:#0F52BA;"><b>oo</b></span>
-* Plotly <span style="color:#0F52BA;"><b>oo</b></span>
-* Bokeh <span style="color:#0F52BA;"><b>o</b></span>
-* d3.js <span style="color:#0F52BA;"><b>o</b></span>
+* Matplotlib <span class=level>●●●</span>
+* Seaborn <span class=level>●●</span>
+* Plotly <span class=level>●●</span>
+* Bokeh <span class=level>●</span>
+* d3.js <span class=level>●</span>
 
 ### Version control
-* Git <span style="color:#0F52BA;"><b>oo</b></span>
-* GitHub <span style="color:#0F52BA;"><b>oo</b></span>
+* Git <span class=level>●●</span>
+* GitHub <span class=level>●●</span>
 
 ### CI/CD
-* Github Actions <span style="color:#0F52BA;"><b>oo</b></span>
+* Github Actions <span class=level>●●</span>
 
 ### Package and project management
-* Poetry & Pyenv <span style="color:#0F52BA;"><b>ooo</b></span>
-* Conda <span style="color:#0F52BA;"><b>oo</b></span>
+* Poetry & Pyenv <span class=level>●●●</span>
+* Conda <span class=level>●●</span>
 
 ### Unit test
-* pytest <span style="color:#0F52BA;"><b>oo</b></span>
+* pytest <span class=level>●●</span>
 
 ### Data structure & numerical analysis
-* Pandas <span style="color:#0F52BA;"><b>ooo</b></span>
-* Xarray <span style="color:#0F52BA;"><b>oo</b></span>
-* NumPy <span style="color:#0F52BA;"><b>ooo</b></span>
-* SciPy <span style="color:#0F52BA;"><b>ooo</b></span>
+* Pandas <span class=level>●●●</span>
+* Xarray <span class=level>●●</span>
+* NumPy <span class=level>●●●</span>
+* SciPy <span class=level>●●●</span>
 
 ### GUI programming
-* Qt, PySide6 <span style="color:#0F52BA;"><b>ooo</b></span>
+* Qt, PySide6 <span class=level>●●●</span>
 
 ### Symbolic computation
-* Mathematica <span style="color:#0F52BA;"><b>ooo</b></span>
-* SymPy <span style="color:#0F52BA;"><b>oo</b></span>
+* Mathematica <span class=level>●●●</span>
+* SymPy <span class=level>●●</span>
 
 ### Computer vision
-* OpenCV <span style="color:#0F52BA;"><b>ooo</b></span>
-* scikit-image <span style="color:#0F52BA;"><b>ooo</b></span>
+* OpenCV <span class=level>●●●</span>
+* scikit-image <span class=level>●●●</span>
 
 ### 3D visualization
-* PyVista <span style="color:#0F52BA;"><b>ooo</b></span>
-* OpenGL (GLSL) <span style="color:#0F52BA;"><b>o</b></span>
-* Panda3D <span style="color:#0F52BA;"><b>oo</b></span>
+* PyVista <span class=level>●●●</span>
+* OpenGL (GLSL) <span class=level>●</span>
+* Panda3D <span class=level>●●</span>
 
 ### Containerization
-* Docker <span style="color:#0F52BA;"><b>oo</b></span>
-* Docker compose <span style="color:#0F52BA;"><b>oo</b></span>
+* Docker <span class=level>●●</span>
+* Docker compose <span class=level>●●</span>
 
 ### Back-end & ML serving
-* FastAPI <span style="color:#0F52BA;"><b>oo</b></span>
-* MLflow models <span style="color:#0F52BA;"><b>oo</b></span>
+* FastAPI <span class=level>●●</span>
+* MLflow models <span class=level>●●</span>
 
 ### Documentation
-* Sphinx <span style="color:#0F52BA;"><b>oo</b></span>
-* LaTeX <span style="color:#0F52BA;"><b>oo</b></span>
+* Sphinx <span class=level>●●</span>
+* LaTeX <span class=level>●●</span>
 
 ### MLOps
-* MLflow <span style="color:#0F52BA;"><b>ooo</b></span>
-* Tensorboard <span style="color:#0F52BA;"><b>o</b></span>
+* MLflow <span class=level>●●●</span>
+* Tensorboard <span class=level>●</span>
 
 ### Reverse proxy
-* Traefik <span style="color:#0F52BA;"><b>oo</b></span>
+* Traefik <span class=level>●●</span>
 
 ### Configuration management
-* Hydra <span style="color:#0F52BA;"><b>oo</b></span>
+* Hydra <span class=level>●●</span>
 
 ### Operating system
-* Linux (Ubuntu, CentOS) <span style="color:#0F52BA;"><b>oo</b></span>
+* Linux (Ubuntu, CentOS) <span class=level>●●</span>
 
 ### Molecular simulations
-* PyMatGen <span style="color:#0F52BA;"><b>ooo</b></span>
-* ASE <span style="color:#0F52BA;"><b>ooo</b></span>
-* LAMMPS <span style="color:#0F52BA;"><b>ooo</b></span>
-* VASP <span style="color:#0F52BA;"><b>o</b></span>
-* PySCF <span style="color:#0F52BA;"><b>o</b></span>
+* PyMatGen <span class=level>●●●</span>
+* ASE <span class=level>●●●</span>
+* LAMMPS <span class=level>●●●</span>
+* VASP <span class=level>●</span>
+* PySCF <span class=level>●</span>
 
 ### Database
-* SQLite <span style="color:#0F52BA;"><b>o</b></span>
+* SQLite <span class=level>●</span>
 
 ## Presentations
 

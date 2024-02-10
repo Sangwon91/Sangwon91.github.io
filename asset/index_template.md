@@ -89,6 +89,9 @@ B.S. in Chemical Engineering	(Feb. 2014)
 #### Classification of crystal phases in cathodes from 4D-STEM data (2023)
 * Contributions: developed a diffraction pattern classification algorithm
 
+#### Deep document understanding (2020, with LG AI Research)
+* Contributions: developed a SMILES image to smiles text model using ResNet and transformer
+
 ## Softwares & Libraries
 
 ### DeepTimeSeries (Python, PyTorch)
