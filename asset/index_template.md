@@ -90,7 +90,7 @@ B.S. in Chemical Engineering	(Feb. 2014)
 * Contributions: developed a diffraction pattern classification algorithm
 
 #### Deep document understanding (2020, with LG AI Research)
-* Contributions: developed a SMILES image to smiles text model using ResNet and transformer
+* Contributions: developed a SMILES image to SMILES model using ResNet and Transformer
 
 ## Softwares & Libraries
 
