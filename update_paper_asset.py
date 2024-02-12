@@ -31,6 +31,11 @@ def main():
                 continue
             paper[attr] = saved_papers[paper['title']][attr]
 
+    titles = [p['title'] for p in papers]
+    for k in saved_papers.keys():
+        if k not in titles:
+            papers.append(saved_papers[k])
+
     # Split the papers into main and others.
     papers = split_main_and_others(papers)
 
