@@ -1,6 +1,6 @@
 main:
 - authors: B Kim, S Lee, J Kim
-  citations: '248'
+  citations: '249'
   journal_info: Science advances 6 (1), eaax9324, 2020
   keywords:
   - deep learning
@@ -12,91 +12,90 @@ main:
 - authors: S Lee, B Kim, H Cho, H Lee, SY Lee, ES Cho, J Kim
   citations: '94'
   journal_info: ACS Applied Materials & Interfaces 13 (20), 23647-23654, 2021
-  title: "*Computational screening of trillions of metal\u2013organic frameworks for\
-    \ high-performance methane storage"
-  year: '2021'
   keywords:
   - deep learning
   - molecular simulations
   - materials discovery
+  title: "*Computational screening of trillions of metal\u2013organic frameworks for\
+    \ high-performance methane storage"
+  year: '2021'
 - authors: S Lee, JH Lee, J Kim
   citations: '90'
   journal_info: Korean Journal of Chemical Engineering 35, 214-221, 2018
-  title: '*User-friendly graphical user interface software for ideal adsorbed solution
-    theory calculations'
-  year: '2018'
   keywords:
   - numerical analysis
   - software design
   - thermodynamics
+  title: '*User-friendly graphical user interface software for ideal adsorbed solution
+    theory calculations'
+  year: '2018'
 - authors: S Lee, B Kim, J Kim
   citations: '43'
   journal_info: Journal of Materials Chemistry A 7 (6), 2709-2716, 2019
+  keywords:
+  - deep learning
+  - molecular simulations
+  - materials discovery
   title: '*Predicting performance limits of methane gas storage in zeolites with an
     artificial neural network'
   year: '2019'
-  keywords:
-  - deep learning
-  - molecular simulations
-  - materials discovery
 - authors: H Kim, S Lee, J Kim
   citations: '10'
   journal_info: Langmuir 35 (11), 3917-3924, 2019
+  keywords:
+  - molecular simulations
+  - porous materials
   title: "(*Contributed Equally) Computational Analysis of Linker Defective Metal\u2013\
     Organic Frameworks for Membrane Separation Applications"
   year: '2019'
-  keywords:
-  - deep learning
-  - molecular simulations
-  - numerical analysis
 - authors: S Lee, H Byun, M Cheon, J Kim, JH Lee
-  citations: '6'
+  citations: '7'
   journal_info: Korean Journal of Chemical Engineering, 1-12, 2021
-  title: '(*Contributed Equally) Machine learning-based discovery of molecules, crystals,
-    and composites: A perspective review'
-  year: '2021'
   keywords:
   - machine learning
   - materials discovery
+  title: '(*Contributed Equally) Machine learning-based discovery of molecules, crystals,
+    and composites: A perspective review'
+  year: '2021'
 - authors: W Choi, S Lee
   citations: '5'
   journal_info: Energy and Buildings, 113027, 2023
-  title: (*Contributed Equally) Performance Evaluation of Deep Learning Architectures
-    for Load and Temperature Forecasting under Dataset Size Constraints and Seasonality
-  year: '2023'
   keywords:
   - deep learning
   - forecasting
   - energy management systems
+  title: (*Contributed Equally) Performance Evaluation of Deep Learning Architectures
+    for Load and Temperature Forecasting under Dataset Size Constraints and Seasonality
+  year: '2023'
 - authors: S Lee, M Kim, J Chang
   citations: '1'
   journal_info: Korean Journal of Chemical Engineering 33, 1047-1058, 2016
-  title: '*Chemical potential and solid-solid equilibrium of near-spherical Lennard-Jones
-    dumbbell crystal'
-  year: '2016'
   keywords:
   - molecular simulations
   - numerical analysis
   - statistical mechanics
+  title: '*Chemical potential and solid-solid equilibrium of near-spherical Lennard-Jones
+    dumbbell crystal'
+  year: '2016'
 - authors: W Choi, S Lee
   citations: ''
   journal_info: Energy and Buildings, 113410, 2023
-  title: '(*Contributed Equally) Interpretable deep learning model for load and temperature
-    forecasting: Depending on encoding length, models may be cheating on wrong answers'
-  year: '2023'
   keywords:
   - deep learning
   - forecasting
   - energy management systems
-- authors: S Lee, K Park, J Lee, A, B, C, D
+  title: '(*Contributed Equally) Interpretable deep learning model for load and temperature
+    forecasting: Depending on encoding length, models may be cheating on wrong answers'
+  year: '2023'
+- authors: S Lee, J Park, J Lee, A, A, A, A, A
   citations: ''
   journal_info: Submitted
-  title: 'Explainable kinetic modeling for aerobic biodegradation of poly(lactic acid) using Bayesian inferences'
-  year: '2024'
   keywords:
   - Bayesian inferences
   - kinetic modeling
   - bio-plastics
+  title: 'Explainable kinetic modeling for aerobic biodegradation of poly(lactic acid) using Bayesian inferences'
+  year: '2024'
 others:
 - authors: S Chong, S Lee, B Kim, J Kim
   citations: '116'
