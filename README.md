@@ -10,11 +10,6 @@ python update_paper_asset.py
 python create_cv_html.py
 ```
 
-## 3. Convert Markdown to HTML
-```shell
-pandoc index.md -s --css=github-pandoc.css --metadata title="Sangwon Lee" -o index.html
-```
-
 ## 4. Convert HTML to PDF
 Print `index.html` with following options using Chrome.
 * Page size: A4

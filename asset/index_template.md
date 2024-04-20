@@ -132,7 +132,7 @@ A molecular Monte Carlo simulator employed for free energy calculations of molec
 
 ### dartwork-mpl (Python, Matplotlib)
 
-[GitHub Repository](https://github.com/BET-lab/dartwork-mpl)
+[GitHub Repository](https://github.com/dartwork-repo/dartwork-mpl)
 
 A Matplotlib styling and utility package crafted for the creation of publication-ready figures
 
