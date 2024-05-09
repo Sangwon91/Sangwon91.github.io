@@ -1,6 +1,6 @@
 main:
 - authors: B Kim, S Lee, J Kim
-  citations: '258'
+  citations: '263'
   journal_info: Science advances 6 (1), eaax9324, 2020
   keywords:
   - deep learning
@@ -10,7 +10,7 @@ main:
     neural networks
   year: '2020'
 - authors: S Lee, B Kim, H Cho, H Lee, SY Lee, ES Cho, J Kim
-  citations: '100'
+  citations: '107'
   journal_info: ACS Applied Materials & Interfaces 13 (20), 23647-23654, 2021
   keywords:
   - deep learning
@@ -20,7 +20,7 @@ main:
     \ high-performance methane storage"
   year: '2021'
 - authors: S Lee, JH Lee, J Kim
-  citations: '92'
+  citations: '93'
   journal_info: Korean Journal of Chemical Engineering 35, 214-221, 2018
   keywords:
   - numerical analysis
@@ -49,7 +49,7 @@ main:
     Organic Frameworks for Membrane Separation Applications"
   year: '2019'
 - authors: W Choi, S Lee
-  citations: '7'
+  citations: '8'
   journal_info: Energy and Buildings, 113027, 2023
   keywords:
   - deep learning
@@ -59,7 +59,7 @@ main:
     for Load and Temperature Forecasting under Dataset Size Constraints and Seasonality
   year: '2023'
 - authors: S Lee, H Byun, M Cheon, J Kim, JH Lee
-  citations: '7'
+  citations: '8'
   journal_info: Korean Journal of Chemical Engineering, 1-12, 2021
   keywords:
   - machine learning
@@ -89,7 +89,7 @@ main:
   year: '2023'
 - authors: S Lee, J Park, J Lee, A, A, A, A, A
   citations: ''
-  journal_info: Submitted
+  journal_info: Under review
   keywords:
   - Bayesian inferences
   - kinetic modeling
@@ -99,12 +99,12 @@ main:
   year: '2024'
 others:
 - authors: S Chong, S Lee, B Kim, J Kim
-  citations: '124'
+  citations: '128'
   journal_info: Coordination Chemistry Reviews 423, 213487, 2020
   title: Applications of machine learning in metal-organic frameworks
   year: '2020'
 - authors: SY Cho, Y Lee, S Lee, H Kang, J Kim, J Choi, J Ryu, H Joo, HT Jung, ...
-  citations: '41'
+  citations: '42'
   journal_info: Analytical chemistry 92 (9), 6529-6537, 2020
   title: Finding hidden signals in chemical sensors using deep learning
   year: '2020'
@@ -115,7 +115,7 @@ others:
     Conditions
   year: '2017'
 - authors: Y Lim, J Park, S Lee, J Kim
-  citations: '22'
+  citations: '25'
   journal_info: Journal of Materials Chemistry A 9 (37), 21175-21183, 2021
   title: "Finely tuned inverse design of metal\u2013organic frameworks with user-desired\
     \ Xe/Kr selectivity"

@@ -35,8 +35,7 @@ def main():
         ))
 
 
-    os.system('pandoc index.md -s --css=./asset/github-pandoc.css --metadata title="Sangwon Lee" -o index.html')
-
+    os.system('pandoc index.md -s --css=./asset/github-pandoc.css --embed-resources --metadata title="Sangwon Lee" -o index.html')
     # Copy for PDF generation.
     shutil.copy('index.html', './output/Curriculum Vitae - Sangwon Lee.html')
 
