@@ -1,6 +1,6 @@
 main:
 - authors: B Kim, S Lee, J Kim
-  citations: '263'
+  citations: '302'
   journal_info: Science advances 6 (1), eaax9324, 2020
   keywords:
   - deep learning
@@ -10,7 +10,7 @@ main:
     neural networks
   year: '2020'
 - authors: S Lee, B Kim, H Cho, H Lee, SY Lee, ES Cho, J Kim
-  citations: '107'
+  citations: '125'
   journal_info: ACS Applied Materials & Interfaces 13 (20), 23647-23654, 2021
   keywords:
   - deep learning
@@ -20,7 +20,7 @@ main:
     \ high-performance methane storage"
   year: '2021'
 - authors: S Lee, JH Lee, J Kim
-  citations: '93'
+  citations: '100'
   journal_info: Korean Journal of Chemical Engineering 35, 214-221, 2018
   keywords:
   - numerical analysis
@@ -30,7 +30,7 @@ main:
     theory calculations'
   year: '2018'
 - authors: S Lee, B Kim, J Kim
-  citations: '44'
+  citations: '48'
   journal_info: Journal of Materials Chemistry A 7 (6), 2709-2716, 2019
   keywords:
   - deep learning
@@ -49,7 +49,7 @@ main:
     Organic Frameworks for Membrane Separation Applications"
   year: '2019'
 - authors: W Choi, S Lee
-  citations: '8'
+  citations: '9'
   journal_info: Energy and Buildings, 113027, 2023
   keywords:
   - deep learning
@@ -99,49 +99,55 @@ main:
   year: '2024'
 others:
 - authors: S Chong, S Lee, B Kim, J Kim
-  citations: '128'
+  citations: '141'
   journal_info: Coordination Chemistry Reviews 423, 213487, 2020
   title: Applications of machine learning in metal-organic frameworks
   year: '2020'
 - authors: SY Cho, Y Lee, S Lee, H Kang, J Kim, J Choi, J Ryu, H Joo, HT Jung, ...
-  citations: '42'
+  citations: '49'
   journal_info: Analytical chemistry 92 (9), 6529-6537, 2020
   title: Finding hidden signals in chemical sensors using deep learning
   year: '2020'
 - authors: BL Suh, S Lee, J Kim
-  citations: '34'
+  citations: '35'
   journal_info: The Journal of Physical Chemistry C 121 (44), 24444-24451, 2017
   title: Size-Matching Ligand Insertion in MOF-74 for Enhanced CO2 Capture under Humid
     Conditions
   year: '2017'
 - authors: Y Lim, J Park, S Lee, J Kim
-  citations: '25'
+  citations: '29'
   journal_info: Journal of Materials Chemistry A 9 (37), 21175-21183, 2021
   title: "Finely tuned inverse design of metal\u2013organic frameworks with user-desired\
     \ Xe/Kr selectivity"
   year: '2021'
 - authors: J Park, Y Lim, S Lee, J Kim
-  citations: '15'
+  citations: '20'
   journal_info: Chemistry of Materials 35 (1), 9-16, 2022
   title: "Computational design of metal\u2013organic frameworks with unprecedented\
     \ high hydrogen working capacity and high synthesizability"
   year: '2022'
 - authors: S Ga, S Lee, G Park, J Kim, M Realff, JH Lee
-  citations: '14'
+  citations: '15'
   journal_info: Chemical Engineering Journal 420, 127580, 2021
   title: New model for S-shaped isotherm data and its application to process modeling
     using IAST
   year: '2021'
 - authors: S Ga, S Lee, J Kim, JH Lee
-  citations: '10'
+  citations: '11'
   journal_info: Computers & Chemical Engineering 143, 107105, 2020
   title: Isotherm parameter library and evaluation software for CO2 capture adsorbents
   year: '2020'
 - authors: H Park, S Lee, J Kim
-  citations: '1'
+  citations: '2'
   journal_info: Korean Journal of Chemical Engineering 38, 406-410, 2021
   title: Deep learning-based initial guess for minimum energy path calculations
   year: '2021'
+- authors: W Lee, S Lee, J Kim
+  citations: ''
+  journal_info: The Journal of Physical Chemistry C 128 (18), 7690-7697, 2024
+  title: In Silico Generation of Chromium-Based MOFs with Abundant Active Sites for
+    N2/CH4 Separation
+  year: '2024'
 - authors: W Choi, S Lee, BH Dinh, YS Kim
   citations: ''
   journal_info: Case Studies in Thermal Engineering 48, 103108, 2023
