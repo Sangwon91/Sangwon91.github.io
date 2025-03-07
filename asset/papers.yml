@@ -1,6 +1,6 @@
 main:
 - authors: B Kim, S Lee, J Kim
-  citations: '302'
+  citations: '352'
   journal_info: Science advances 6 (1), eaax9324, 2020
   keywords:
   - deep learning
@@ -10,7 +10,7 @@ main:
     neural networks
   year: '2020'
 - authors: S Lee, B Kim, H Cho, H Lee, SY Lee, ES Cho, J Kim
-  citations: '125'
+  citations: '167'
   journal_info: ACS Applied Materials & Interfaces 13 (20), 23647-23654, 2021
   keywords:
   - deep learning
@@ -20,7 +20,7 @@ main:
     \ high-performance methane storage"
   year: '2021'
 - authors: S Lee, JH Lee, J Kim
-  citations: '100'
+  citations: '124'
   journal_info: Korean Journal of Chemical Engineering 35, 214-221, 2018
   keywords:
   - numerical analysis
@@ -30,7 +30,7 @@ main:
     theory calculations'
   year: '2018'
 - authors: S Lee, B Kim, J Kim
-  citations: '48'
+  citations: '50'
   journal_info: Journal of Materials Chemistry A 7 (6), 2709-2716, 2019
   keywords:
   - deep learning
@@ -39,17 +39,8 @@ main:
   title: '*Predicting performance limits of methane gas storage in zeolites with an
     artificial neural network'
   year: '2019'
-- authors: H Kim, S Lee, J Kim
-  citations: '10'
-  journal_info: Langmuir 35 (11), 3917-3924, 2019
-  keywords:
-  - molecular simulations
-  - porous materials
-  title: "(*Contributed Equally) Computational Analysis of Linker Defective Metal\u2013\
-    Organic Frameworks for Membrane Separation Applications"
-  year: '2019'
 - authors: W Choi, S Lee
-  citations: '9'
+  citations: '20'
   journal_info: Energy and Buildings, 113027, 2023
   keywords:
   - deep learning
@@ -59,7 +50,7 @@ main:
     for Load and Temperature Forecasting under Dataset Size Constraints and Seasonality
   year: '2023'
 - authors: S Lee, H Byun, M Cheon, J Kim, JH Lee
-  citations: '8'
+  citations: '15'
   journal_info: Korean Journal of Chemical Engineering, 1-12, 2021
   keywords:
   - machine learning
@@ -67,6 +58,25 @@ main:
   title: '(*Contributed Equally) Machine learning-based discovery of molecules, crystals,
     and composites: A perspective review'
   year: '2021'
+- authors: H Kim, S Lee, J Kim
+  citations: '12'
+  journal_info: Langmuir 35 (11), 3917-3924, 2019
+  keywords:
+  - molecular simulations
+  - porous materials
+  title: "(*Contributed Equally) Computational Analysis of Linker Defective Metal\u2013\
+    Organic Frameworks for Membrane Separation Applications"
+  year: '2019'
+- authors: W Choi, S Lee
+  citations: '2'
+  journal_info: Energy and Buildings, 113410, 2023
+  keywords:
+  - deep learning
+  - forecasting
+  - energy management systems
+  title: '(*Contributed Equally) Interpretable deep learning model for load and temperature
+    forecasting: Depending on encoding length, models may be cheating on wrong answers'
+  year: '2023'
 - authors: S Lee, M Kim, J Chang
   citations: '1'
   journal_info: Korean Journal of Chemical Engineering 33, 1047-1058, 2016
@@ -77,16 +87,6 @@ main:
   title: '*Chemical potential and solid-solid equilibrium of near-spherical Lennard-Jones
     dumbbell crystal'
   year: '2016'
-- authors: W Choi, S Lee
-  citations: ''
-  journal_info: Energy and Buildings, 113410, 2023
-  keywords:
-  - deep learning
-  - forecasting
-  - energy management systems
-  title: '(*Contributed Equally) Interpretable deep learning model for load and temperature
-    forecasting: Depending on encoding length, models may be cheating on wrong answers'
-  year: '2023'
 - authors: S Lee, J Park, J Lee, A, A, A, A, A
   citations: ''
   journal_info: Under review
@@ -99,35 +99,35 @@ main:
   year: '2024'
 others:
 - authors: S Chong, S Lee, B Kim, J Kim
-  citations: '141'
+  citations: '191'
   journal_info: Coordination Chemistry Reviews 423, 213487, 2020
   title: Applications of machine learning in metal-organic frameworks
   year: '2020'
 - authors: SY Cho, Y Lee, S Lee, H Kang, J Kim, J Choi, J Ryu, H Joo, HT Jung, ...
-  citations: '49'
+  citations: '61'
   journal_info: Analytical chemistry 92 (9), 6529-6537, 2020
   title: Finding hidden signals in chemical sensors using deep learning
   year: '2020'
 - authors: BL Suh, S Lee, J Kim
-  citations: '35'
+  citations: '40'
   journal_info: The Journal of Physical Chemistry C 121 (44), 24444-24451, 2017
   title: Size-Matching Ligand Insertion in MOF-74 for Enhanced CO2 Capture under Humid
     Conditions
   year: '2017'
-- authors: Y Lim, J Park, S Lee, J Kim
-  citations: '29'
-  journal_info: Journal of Materials Chemistry A 9 (37), 21175-21183, 2021
-  title: "Finely tuned inverse design of metal\u2013organic frameworks with user-desired\
-    \ Xe/Kr selectivity"
-  year: '2021'
 - authors: J Park, Y Lim, S Lee, J Kim
-  citations: '20'
+  citations: '37'
   journal_info: Chemistry of Materials 35 (1), 9-16, 2022
   title: "Computational design of metal\u2013organic frameworks with unprecedented\
     \ high hydrogen working capacity and high synthesizability"
   year: '2022'
+- authors: Y Lim, J Park, S Lee, J Kim
+  citations: '35'
+  journal_info: Journal of Materials Chemistry A 9 (37), 21175-21183, 2021
+  title: "Finely tuned inverse design of metal\u2013organic frameworks with user-desired\
+    \ Xe/Kr selectivity"
+  year: '2021'
 - authors: S Ga, S Lee, G Park, J Kim, M Realff, JH Lee
-  citations: '15'
+  citations: '18'
   journal_info: Chemical Engineering Journal 420, 127580, 2021
   title: New model for S-shaped isotherm data and its application to process modeling
     using IAST
@@ -142,21 +142,21 @@ others:
   journal_info: Korean Journal of Chemical Engineering 38, 406-410, 2021
   title: Deep learning-based initial guess for minimum energy path calculations
   year: '2021'
+- authors: W Choi, S Lee, BH Dinh, YS Kim
+  citations: '1'
+  journal_info: Case Studies in Thermal Engineering 48, 103108, 2023
+  title: Real-time probabilistic backfill thermal property estimation method enabling
+    estimation convergence judgment
+  year: '2023'
+- authors: H Jang, Y Chae, S Lee, J Jo
+  citations: '1'
+  journal_info: KIPS Transactions on Software and Data Engineering 7 (11), 411-418,
+    2018
+  title: Automatic Object Extraction from Electronic Documents Using Deep Neural Network
+  year: '2018'
 - authors: W Lee, S Lee, J Kim
   citations: ''
   journal_info: The Journal of Physical Chemistry C 128 (18), 7690-7697, 2024
   title: In Silico Generation of Chromium-Based MOFs with Abundant Active Sites for
     N2/CH4 Separation
   year: '2024'
-- authors: W Choi, S Lee, BH Dinh, YS Kim
-  citations: ''
-  journal_info: Case Studies in Thermal Engineering 48, 103108, 2023
-  title: Real-time probabilistic backfill thermal property estimation method enabling
-    estimation convergence judgment
-  year: '2023'
-- authors: H Jang, Y Chae, S Lee, J Jo
-  citations: ''
-  journal_info: KIPS Transactions on Software and Data Engineering 7 (11), 411-418,
-    2018
-  title: Automatic Object Extraction from Electronic Documents Using Deep Neural Network
-  year: '2018'
