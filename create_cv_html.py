@@ -1,9 +1,9 @@
 import os
 import shutil
+import subprocess
 from datetime import datetime
 
 import yaml
-
 from jinja2 import Environment, FileSystemLoader
 from cvmaker import make_paper_markdown_table
 
@@ -34,10 +34,17 @@ def main():
             L3='<span class=level>&#9679;&#9679;&#9679;</span>',
         ))
 
-
     os.system('pandoc index.md -s --css=./asset/github-pandoc.css --embed-resources --metadata title="Sangwon Lee" -o index.html')
+    
     # Copy for PDF generation.
-    shutil.copy('index.html', './output/Curriculum Vitae - Sangwon Lee.html')
+    cv_html_path = './output/Curriculum Vitae - Sangwon Lee.html'
+    cv_pdf_path = './output/Curriculum Vitae - Sangwon Lee.pdf'
+    shutil.copy('index.html', cv_html_path)
+    
+    # Generate PDF from HTML using the html_to_pdf.py script
+    print("Generating PDF from HTML...")
+    subprocess.run(['uv', 'run', 'python', 'html_to_pdf.py', cv_html_path, cv_pdf_path], check=True)
+
 
 if __name__ == '__main__':
     main()
